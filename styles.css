@@ -1,0 +1,131 @@
+body {
+    font-family: 'Courier New', monospace;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #1a1a1a;
+    margin: 0;
+    color: #bfc7d5;
+}
+
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: -100px; /* Move content up slightly */
+}
+
+h1 {
+    font-size: 1em;
+    color: #4a5568;
+    margin-bottom: 60px;
+    font-weight: normal;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 15px 25px;
+    background-color: rgba(26, 26, 26, 0.9);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9em;
+    backdrop-filter: blur(5px);
+}
+
+.header .left span {
+    color: #bfc7d5;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.header .right span {
+    margin: 0 10px;
+    color: #4a5568;
+}
+
+#text {
+    font-size: 2em;
+    margin-bottom: 40px;
+    text-align: center;
+    line-height: 1.8;
+    max-width: 800px;
+    letter-spacing: 1px;
+}
+
+#text span {
+    transition: color 0.2s;
+}
+
+#text span.upcoming {
+    color: #4a5568;
+    opacity: 0.7;
+}
+
+#text span.correct {
+    color: #4CAF50;
+}
+
+#text span.incorrect {
+    color: #f44336;
+}
+
+#input {
+    position: absolute;
+    left: -9999px;
+}
+
+:root {
+    --char-width: 20px;
+    --char-height: 40px;
+}
+
+.cursor {
+    position: absolute;
+    width: 2px;
+    height: var(--char-height);
+    background: #4CAF50;
+    animation: blink 1s infinite;
+    border-radius: 2px;
+    pointer-events: none;
+    transition: transform 0.1s ease;
+    opacity: 0.8;
+    box-shadow: 0 0 8px rgba(76, 175, 80, 0.5);
+    left: 0;
+    top: 0;
+    will-change: transform;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 0.8; }
+    50% { opacity: 0; }
+}
+
+#result {
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    color: #4a5568;
+    font-size: 0.9em;
+}
+
+#result span {
+    margin: 0 10px;
+}
+
+.keyboard {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0.7;
+}
