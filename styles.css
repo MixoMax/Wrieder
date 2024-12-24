@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;500&display=swap');
+
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #e74c3c;
+    --background-color: #f5f6fa;
+    --card-color: #ffffff;
+    --text-color: #2c3e50;
+    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --hover-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    --char-width: 20px;
+    --char-height: 40px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Courier New', monospace;
     display: flex;
@@ -7,6 +27,8 @@ body {
     margin: 0;
     color: #bfc7d5;
 }
+
+
 
 .container {
     flex: 1;
@@ -18,7 +40,7 @@ body {
     width: 80%;
     max-width: 900px;
     margin: 0 auto;
-    margin-top: -100px; /* Move content up slightly */
+    margin-top: 100px;
 }
 
 h1 {
@@ -34,18 +56,57 @@ h1 {
     left: 0;
     right: 0;
     padding: 15px 25px;
-    background-color: rgba(26, 26, 26, 0.9);
+    background-color: rgba(26, 26, 26, 0.95);
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-size: 0.9em;
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    z-index: 1000;
 }
 
-.header .left span {
+.header .left {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.header .home-link {
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 1px;
+    transition: color 0.2s ease;
+}
+
+.header .home-link:hover {
+    color: #66bb6a;
+}
+
+.header .status {
     color: #bfc7d5;
     font-weight: bold;
     letter-spacing: 1px;
+    opacity: 0.8;
+}
+
+.progress-bar {
+    position: fixed;
+    top: 56px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: rgba(255, 255, 255, 0.1);
+    z-index: 1000;
+}
+
+.progress-fill {
+    height: 100%;
+    background: #4CAF50;
+    width: 0%;
+    transition: width 0.3s ease;
+    box-shadow: 0 0 8px rgba(76, 175, 80, 0.5);
 }
 
 .header .right span {
@@ -79,14 +140,21 @@ h1 {
     color: #f44336;
 }
 
+#text-upcoming {
+    color: #4a5568;
+    font-size: 2em;
+    margin-bottom: 40px;
+    text-align: center;
+    line-height: 1.8;
+    max-width: 800px;
+    letter-spacing: 1px;
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0) 100%);
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0) 100%);
+}
+
 #input {
     position: absolute;
     left: -9999px;
-}
-
-:root {
-    --char-width: 20px;
-    --char-height: 40px;
 }
 
 .cursor {
@@ -128,4 +196,99 @@ h1 {
     left: 50%;
     transform: translateX(-50%);
     opacity: 0.7;
+}
+
+/* Digital Library Styles */
+.subtitle {
+    font-weight: 300;
+    opacity: 0.9;
+}
+
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.book-card {
+    background: var(--card-color);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    position: relative;
+}
+
+.book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--hover-shadow);
+}
+
+.book-cover {
+    width: 100%;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+    border-bottom: 2px solid #eee;
+}
+
+.book-info {
+    padding: 1rem;
+    text-align: center;
+    
+}
+
+.book-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.loading {
+    text-align: center;
+    padding: 2rem;
+    display: none;
+}
+
+.loading.visible {
+    display: block;
+}
+
+.loading-spinner {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 3px solid var(--secondary-color);
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.book-card::after {
+    content: '→';
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+    font-size: 1.2rem;
+    opacity: 0;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.book-card:hover::after {
+    opacity: 1;
+    transform: translateX(5px);
 }

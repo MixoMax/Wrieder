@@ -2,6 +2,7 @@ const text = document.getElementById('text');
 const input = document.getElementById('input');
 const result = document.getElementById('result');
 const cursor = document.querySelector('.cursor');
+const upcomingText = document.getElementById("text-upcoming");
 
 const parameters = new URLSearchParams(window.location.search)
 
@@ -15,6 +16,7 @@ let currentText = '';
 let n_typed_chars = 0;
 let lines = [];
 let currentLineIndex = 0;
+let chapters = {}
 
 let isPaused = true;
 
@@ -77,6 +79,11 @@ function startTest() {
     currentText.split('').forEach(char => {
         text.appendChild(createSpanForChar(char, 'upcoming'));
     });
+    if (currentLineIndex < lines.length) {
+        const next_line = lines[currentLineIndex + 1];
+        const max_chars = 150;
+        upcomingText.innerHTML = next_line.length > max_chars ? next_line.substring(0, max_chars) + "..." : next_line;
+    }
     updateCursorPosition();
     input.value = '';
     input.focus();
@@ -92,6 +99,29 @@ function pauseTest() {
     document.querySelector('.left span').textContent = 'PAUSED';
 }
 
+function updateProgressBar() {
+    const progressFill = document.querySelector('.progress-fill');
+    const progress = (currentLineIndex / lines.length) * 100;
+    progressFill.style.width = `${progress}%`;
+}
+
+function updateChapter() {
+    // update the current chapter, if applicable
+    // find the highest index in chapters that is less than currentLineIndex
+    // and set the <h2 id="Chapter-text"> to the corresponding chapter title
+    let chapterIndex = 0;
+    for (let i = 0; i < Object.keys(chapters).length; i++) {
+        if (Object.keys(chapters)[i] < currentLineIndex) {
+            chapterIndex = Object.keys(chapters)[i];
+        }
+    }
+    document.getElementById("Chapter-text").textContent = chapters[chapterIndex];
+
+    // also update the document title to BOOKNAME - CHAPTERNAME
+    document.title = parameters.get("book") + " - " + chapters[chapterIndex];
+    
+}
+
 function finish_line() {
     endTime = new Date().getTime();
     const timeTaken = Math.round((endTime - startTime) / 1000);
@@ -105,6 +135,9 @@ function finish_line() {
     `;
 
     currentLineIndex = currentLineIndex + 1;
+    localStorage.setItem(parameters.get("book") + "_LineIndex", currentLineIndex);
+    updateProgressBar();
+
     startTest();
 }
 
@@ -133,11 +166,50 @@ document.addEventListener('keydown', (e) => {
     input.focus();
 });
 
+document.getElementById("reset-button").addEventListener('click', () => {
+    localStorage.setItem(parameters.get("book") + "_LineIndex", 0);
+    currentLineIndex = 0;
+    window.location.reload();
+});
 
 fetch("/books?book_name=" + parameters.get("book"))
     .then(response => response.text())
     .then(text => {
-        lines = text.split('\n').filter(line => line.trim().length > 0);
+        lines = text.split('\n')
+        if (localStorage.getItem(parameters.get("book") + "_LineIndex")) {
+            currentLineIndex = parseInt(localStorage.getItem(parameters.get("book") + "_LineIndex"));
+        } else {
+            currentLineIndex = 0;
+        }
+
+        lines_wo_empty_lines = lines.filter(line => line.trim().length > 0);
+
+        // Parse chapters
+        let lines_to_remove = []
+        for (let i = 0; i < lines.length; i++) {
+            if (lines[i].toLowerCase().trim().startsWith('chapter')) {
+                let chapterTitle = [lines[i]];
+                lines_to_remove.push(lines[i]);
+                
+                // Continue adding lines until we hit an empty line
+                let j = i + 1;
+                while (j < lines.length && lines[j].trim() !== '') {
+                    chapterTitle.push(lines[j].trim().replace("\n", ""));
+                    lines_to_remove.push(lines[j]);
+                    j++;
+                }
+                
+                // Join all the chapter title lines with spaces
+                let fullChapterTitle = chapterTitle.join(' ');
+                chapters[lines_wo_empty_lines.indexOf(lines[i])] = fullChapterTitle;
+            }
+        }
+
+
+        lines = lines_wo_empty_lines.filter(line => !lines_to_remove.includes(line)).map(line => line.trim());
+        lines = lines.map(line => line + " ");
+        updateChapter();
+        updateProgressBar();
         startTest();
     })
     .catch(error => {

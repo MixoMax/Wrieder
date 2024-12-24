@@ -3,22 +3,101 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Typing Test</title>
+    <title>Digital Library</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-    <div class="header">
-        <div class="left">
-            <span>PAUSED</span>
+    <header>
+        <h1>Digital Library</h1>
+        <p class="subtitle">Explore our collection of timeless classics</p>
+    </header>
+
+    <main>
+        <div class="book-grid" id="bookGrid"></div>
+        <div class="loading" id="loading">
+            <div class="loading-spinner"></div>
         </div>
-        <div class="right" id="result"></div>
-    </div>
-    <div class="container">
-        <h1>The Art of War / I: Laying Plans</h1>
-        <div id="text"></div>
-        <div class="cursor"></div>
-        <input type="text" id="input" autocomplete="off" autocapitalize="off" autocorrect="off">
-    </div>
-    <script src="script.js"></script>
+    </main>
+
+    <script>
+        let isLoading = false;
+        let allBooksLoaded = false;
+        let lastLoadedIndex = 0;
+        const booksPerLoad = 12;
+        let allBooks = [];
+
+        async function fetchBooks() {
+            try {
+                const response = await fetch('/api/v1/list_books');
+                allBooks = await response.json();
+            } catch (error) {
+                console.error('Error fetching books:', error);
+            }
+        }
+
+        function createBookCard(bookName) {
+            const card = document.createElement('div');
+            card.className = 'book-card';
+            card.innerHTML = `
+                <img class="book-cover" src="/book_cover?book_name=${encodeURIComponent(bookName)}" alt="${bookName} cover">
+                <div class="book-info">
+                    <h3 class="book-title">${bookName.replace(/-/g, ' ')}</h3>
+                </div>
+            `;
+            card.addEventListener('click', () => {
+                window.location.href = `/reader.html?book=${encodeURIComponent(bookName)}`;
+            });
+            return card;
+        }
+
+        async function loadMoreBooks() {
+            if (isLoading || allBooksLoaded) return;
+
+            isLoading = true;
+            document.getElementById('loading').classList.add('visible');
+
+            const fragment = document.createDocumentFragment();
+            const endIndex = Math.min(lastLoadedIndex + booksPerLoad, allBooks.length);
+
+            for (let i = lastLoadedIndex; i < endIndex; i++) {
+                const bookCard = createBookCard(allBooks[i]);
+                fragment.appendChild(bookCard);
+            }
+
+            document.getElementById('bookGrid').appendChild(fragment);
+            lastLoadedIndex = endIndex;
+            allBooksLoaded = lastLoadedIndex >= allBooks.length;
+
+            isLoading = false;
+            document.getElementById('loading').classList.remove('visible');
+        }
+
+        function setupInfiniteScroll() {
+            const options = {
+                root: null,
+                rootMargin: '100px',
+                threshold: 0.1
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        loadMoreBooks();
+                    }
+                });
+            }, options);
+
+            observer.observe(document.getElementById('loading'));
+        }
+
+        async function initialize() {
+            await fetchBooks();
+            await loadMoreBooks();
+            setupInfiniteScroll();
+        }
+
+        initialize();
+    </script>
 </body>
 </html>
