@@ -26,6 +26,8 @@ async def server_book_cover_img(book_name: str) -> FileResponse:
 async def get_list_of_books():
     files = os.listdir("./books")
     data = [file.replace(".txt", "") for file in files if file.endswith(".txt")]
+    # sort the list of books alphabetically
+    data = sorted(data)
     return JSONResponse(data)
 
 

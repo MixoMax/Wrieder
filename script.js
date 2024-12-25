@@ -174,18 +174,24 @@ document.addEventListener('keydown', (e) => {
 document.getElementById("btn-reset").addEventListener('click', () => {
     currentLineIndex = 0;
     localStorage.setItem(parameters.get("book") + "_LineIndex", currentLineIndex);
+    updateChapter();
+    updateProgressBar();
     window.location.reload();
 });
 
 document.getElementById("btn-page-fwd").addEventListener('click', () => {
     currentLineIndex = currentLineIndex + 1;
     localStorage.setItem(parameters.get("book") + "_LineIndex", currentLineIndex);
+    updateChapter();
+    updateProgressBar();
     startTest();
 });
 
 document.getElementById("btn-page-back").addEventListener('click', () => {
     currentLineIndex = currentLineIndex - 1;
     localStorage.setItem(parameters.get("book") + "_LineIndex", currentLineIndex);
+    updateChapter();
+    updateProgressBar();
     startTest();
 });
 
