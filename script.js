@@ -142,6 +142,7 @@ function finish_line() {
     currentLineIndex = currentLineIndex + 1;
     localStorage.setItem(parameters.get("book") + "_LineIndex", currentLineIndex);
     updateProgressBar();
+    updateChapter();
 
     startTest();
 }
