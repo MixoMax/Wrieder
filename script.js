@@ -103,6 +103,8 @@ function updateProgressBar() {
     const progressFill = document.querySelector('.progress-fill');
     const progress = (currentLineIndex / lines.length) * 100;
     progressFill.style.width = `${progress}%`;
+    const progressText = document.querySelector('.progress-text');
+    progressText.textContent = `${Math.round(progress)}%`;
 }
 
 function updateChapter() {
@@ -115,6 +117,9 @@ function updateChapter() {
             chapterIndex = Object.keys(chapters)[i];
         }
     }
+
+    console.log(chapterIndex);
+
     document.getElementById("Chapter-text").textContent = chapters[chapterIndex];
 
     // also update the document title to BOOKNAME - CHAPTERNAME
@@ -166,11 +171,24 @@ document.addEventListener('keydown', (e) => {
     input.focus();
 });
 
-document.getElementById("reset-button").addEventListener('click', () => {
-    localStorage.setItem(parameters.get("book") + "_LineIndex", 0);
+document.getElementById("btn-reset").addEventListener('click', () => {
     currentLineIndex = 0;
+    localStorage.setItem(parameters.get("book") + "_LineIndex", currentLineIndex);
     window.location.reload();
 });
+
+document.getElementById("btn-page-fwd").addEventListener('click', () => {
+    currentLineIndex = currentLineIndex + 1;
+    localStorage.setItem(parameters.get("book") + "_LineIndex", currentLineIndex);
+    startTest();
+});
+
+document.getElementById("btn-page-back").addEventListener('click', () => {
+    currentLineIndex = currentLineIndex - 1;
+    localStorage.setItem(parameters.get("book") + "_LineIndex", currentLineIndex);
+    startTest();
+});
+
 
 fetch("/books?book_name=" + parameters.get("book"))
     .then(response => response.text())

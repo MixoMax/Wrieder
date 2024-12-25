@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.responses import FileResponse, JSONResponse
 import uvicorn
 import os
+import sys
 
 app = FastAPI()
 
@@ -37,5 +38,10 @@ async def serve_static(path: str):
     return FileResponse(path)
 
 
-port = 8000
-uvicorn.run(app, host="127.0.0.1", port=port)
+if __name__ == "__main__":
+    argc = len(sys.argv)
+    if argc == 2:
+        port = int(sys.argv[1])
+    else:
+        port = 8000
+    uvicorn.run(app, host="0.0.0.0", port=port)

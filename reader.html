@@ -9,14 +9,14 @@
 <body>
     <div class="header">
         <div class="left">
-            <a href="/" class="home-link">entertrained</a>
+            <a href="/" class="home-link">⌂ Wrieder</a>
             <span class="status">PAUSED</span>
         </div>
-        <button class="right" id="reset-button">Reset</button>
         <div class="right" id="result"></div>
     </div>
     <div class="progress-bar">
         <div class="progress-fill"></div>
+        <span class="progress-text"></span>
     </div>
     <div class="container">
         <h1 id="Chapter-text">Loading Chapter...</h1>
@@ -25,6 +25,12 @@
         <div class="cursor"></div>
         <input type="text" id="input" autocomplete="off" autocapitalize="off" autocorrect="off">
     </div>
+    <div class="footer">
+        <button id="btn-reset" class="btn">Reset</button>
+        <button id="btn-page-fwd" class="btn">Next</button>
+        <button id="btn-page-back" class="btn">Back</button>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>

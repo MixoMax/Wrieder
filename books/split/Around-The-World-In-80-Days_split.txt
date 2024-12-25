@@ -5,7 +5,7 @@ Mr. Phileas Fogg lived, in 1872, at No.
 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814.
 He was one of the most noticeable members of the Reform Club, though he seemed always to avoid attracting attention;
 an enigmatical personage, about whom little was known, except that he was a polished man of the world.
-People said that he resembled Byron-at least that his head was Byronic;
+People said that he resembled Byron—at least that his head was Byronic;
 but he was a bearded, tranquil Byron, who might live on a thousand years without growing old.
 Certainly an Englishman, it was more doubtful whether Phileas Fogg was a Londoner.
 He was never seen on ’Change, nor at the Bank, nor in the counting-rooms of the “City”;
@@ -54,8 +54,8 @@ He never used the cosy chambers which the Reform provides for its favoured membe
 He passed ten hours out of the twenty-four in Saville Row, either in sleeping or making his toilet.
 When he chose to take a walk it was with a regular step in the entrance hall with its mosaic flooring,
 or in the circular gallery with its dome supported by twenty red porphyry Ionic columns, and illumined by blue painted windows.
-When he breakfasted or dined all the resources of the club-its kitchens and pantries,
-its buttery and dairy-aided to crowd his table with their most succulent stores;
+When he breakfasted or dined all the resources of the club—its kitchens and pantries,
+its buttery and dairy—aided to crowd his table with their most succulent stores;
 he was served by the gravest waiters, in dress coats, and shoes with swan-skin soles, who proffered the viands in special porcelain,
 and on the finest linen; club decanters, of a lost mould, contained his sherry, his port, and his cinnamon-spiced claret;
 while his beverages were refreshingly cooled with ice, brought at great cost from the American lakes.
@@ -87,7 +87,7 @@ and forgetting even the name of Passepartout.” “Passepartout suits me,” re
 You know my conditions?” “Yes, monsieur.” “Good!
 What time is it?” “Twenty-two minutes after eleven,” returned Passepartout, drawing an enormous silver watch from the depths of his pocket.
 “You are too slow,” said Mr. Fogg.
-“Pardon me, monsieur, it is impossible-” “You are four minutes too slow.
+“Pardon me, monsieur, it is impossible—” “You are four minutes too slow.
 No matter; it’s enough to mention the error.
 Now from this moment, twenty-nine minutes after eleven, a.m., this Wednesday, 2nd October, you are in my service.” Phileas Fogg got up,
 took his hat in his left hand, put it on his head with an automatic motion, and went off without a word.
@@ -149,7 +149,7 @@ while on the mantel stood an electric clock, precisely like that in Mr. Fogg’s
 “That’s good, that’ll do,” said Passepartout to himself.
 He suddenly observed, hung over the clock, a card which, upon inspection, proved to be a programme of the daily routine of the house.
 It comprised all that was required of the servant, from eight in the morning, exactly at which hour Phileas Fogg rose, till half-past eleven,
-when he left the house for the Reform Club-all the details of service, the tea and toast at twenty-three minutes past eight,
+when he left the house for the Reform Club—all the details of service, the tea and toast at twenty-three minutes past eight,
 the shaving-water at thirty-seven minutes past nine, and the toilet at twenty minutes before ten.
 Everything was regulated and foreseen that was to be done from half-past eleven a.m.
 till midnight, the hour at which the methodical gentleman retired.
@@ -185,7 +185,7 @@ Dinner passed as breakfast had done, and Mr. Fogg re-appeared in the reading-roo
 Half an hour later several members of the Reform came in and drew up to the fireplace, where a coal fire was steadily burning.
 They were Mr.
 Fogg’s usual partners at whist: Andrew Stuart, an engineer; John Sullivan and Samuel Fallentin, bankers; Thomas Flanagan, a brewer;
-and Gauthier Ralph, one of the Directors of the Bank of England-all rich and highly respectable personages,
+and Gauthier Ralph, one of the Directors of the Bank of England—all rich and highly respectable personages,
 even in a club which comprises the princes of English trade and finance.
 “Well, Ralph,” said Thomas Flanagan, “what about that robbery?” “Oh,” replied Stuart,
 “the Bank will lose the money.” “On the contrary,” broke in Ralph, “I hope we may put our hands on the robber.
@@ -240,10 +240,10 @@ And that is why the search for this thief will be more likely to succeed.” “
 Mr. Stuart,” said Phileas Fogg.
 But the incredulous Stuart was not convinced, and when the hand was finished, said eagerly: “You have a strange way, Ralph,
 of proving that the world has grown smaller.
-So, because you can go round it in three months-” “In eighty days,” interrupted Phileas Fogg.
+So, because you can go round it in three months—” “In eighty days,” interrupted Phileas Fogg.
 “That is true, gentlemen,” added John Sullivan.
 “Only eighty days, now that the section between Rothal and Allahabad, on the Great Indian Peninsula Railway, has been opened.
-Here is the estimate made by the _Daily Telegraph:_- From London to Suez _viâ_ Mont Cenis and Brindisi, by rail and steamboats .................
+Here is the estimate made by the _Daily Telegraph:_— From London to Suez _viâ_ Mont Cenis and Brindisi, by rail and steamboats .................
 7 days From Suez to Bombay, by steamer .................... 13 ” From Bombay to Calcutta, by rail ...................
 3 ” From Calcutta to Hong Kong, by steamer ............. 13 ” From Hong Kong to Yokohama (Japan), by steamer .....
 6 ” From Yokohama to San Francisco, by steamer ......... 22 ” From San Francisco to New York, by rail .............
@@ -254,7 +254,7 @@ continuing to play despite the discussion.
 “But suppose the Hindoos or Indians pull up the rails,” replied Stuart;
 “suppose they stop the trains, pillage the luggage-vans, and scalp the passengers!” “All included,” calmly retorted Fogg;
 adding, as he threw down the cards, “Two trumps.” Stuart, whose turn it was to deal, gathered them up, and went on: “You are right, theoretically,
-Mr. Fogg, but practically-” “Practically also, Mr. Stuart.” “I’d like to see you do it in eighty days.” “It depends on you.
+Mr. Fogg, but practically—” “Practically also, Mr. Stuart.” “I’d like to see you do it in eighty days.” “It depends on you.
 Shall we go?” “Heaven preserve me!
 But I would wager four thousand pounds that such a journey, made under these conditions, is impossible.” “Quite possible,
 on the contrary,” returned Mr. Fogg.
@@ -272,7 +272,7 @@ he continued: “I have a deposit of twenty thousand at Baring’s which I will 
 Fogg,
 eighty days are only the estimate of the least possible time in which the journey can be made.” “A well-used minimum suffices for everything.” “But,
 in order not to exceed it, you must jump mathematically from the trains upon the steamers,
-and from the steamers upon the trains again.” “I will jump-mathematically.” “You are joking.” “A true Englishman doesn’t joke when he is talking
+and from the steamers upon the trains again.” “I will jump—mathematically.” “You are joking.” “A true Englishman doesn’t joke when he is talking
 about so serious a thing as a wager,” replied Phileas Fogg, solemnly.
 “I will bet twenty thousand pounds against anyone who wishes that I will make the tour of the world in eighty days or less;
 in nineteen hundred and twenty hours, or a hundred and fifteen thousand two hundred minutes.
@@ -328,7 +328,7 @@ To Calais; good again!
 After all, Passepartout, who had been away from France five years, would not be sorry to set foot on his native soil again.
 Perhaps they would go as far as Paris, and it would do his eyes good to see Paris once more.
 But surely a gentleman so chary of his steps would stop there;
-no doubt-but, then, it was none the less true that he was going away, this so domestic person hitherto!
+no doubt—but, then, it was none the less true that he was going away, this so domestic person hitherto!
 By eight o’clock Passepartout had packed the modest carpet-bag, containing the wardrobes of his master and himself;
 then, still troubled in mind, he carefully shut the door of his room, and descended to Mr. Fogg.
 Mr. Fogg was quite ready.
@@ -363,7 +363,7 @@ Passepartout, not yet recovered from his stupefaction, clung mechanically to the
 Just as the train was whirling through Sydenham, Passepartout suddenly uttered a cry of despair.
 “What’s the matter?” asked Mr. Fogg.
 “Alas!
-In my hurry-I-I forgot-” “What?” “To turn off the gas in my room!” “Very well, young man,” returned Mr. Fogg, coolly; “it will burn-at your expense.”
+In my hurry—I—I forgot—” “What?” “To turn off the gas in my room!” “Very well, young man,” returned Mr. Fogg, coolly; “it will burn—at your expense.”
 CHAPTER V. IN WHICH A NEW SPECIES OF FUNDS, UNKNOWN TO THE MONEYED MEN, APPEARS ON ’CHANGE
 
 Phileas Fogg rightly suspected that his departure from London would create a lively sensation at the West End.
@@ -389,7 +389,7 @@ A miraculous agreement of the times of departure and arrival, which was impossib
 He might, perhaps, reckon on the arrival of trains at the designated hours, in Europe, where the distances were relatively moderate;
 but when he calculated upon crossing India in three days, and the United States in seven, could he rely beyond misgiving upon accomplishing his task?
 There were accidents to machinery, the liability of trains to run off the line, collisions, bad weather,
-the blocking up by snow-were not all these against Phileas Fogg?
+the blocking up by snow—were not all these against Phileas Fogg?
 Would he not find himself, when travelling by steamer in winter, at the mercy of the winds and fogs?
 Is it uncommon for the best ocean steamers to be two or three days behind time?
 But a single delay would suffice to fatally break the chain of communication; should Phileas Fogg once miss, even by an hour;
@@ -428,7 +428,7 @@ Peninsular and Oriental Company, built of iron, of two thousand eight hundred to
 was due at eleven o’clock a.m. on Wednesday, the 9th of October, at Suez.
 The “Mongolia” plied regularly between Brindisi and Bombay _viâ_ the Suez Canal, and was one of the fastest steamers belonging to the company,
 always making more than ten knots an hour between Brindisi and Suez, and nine and a half between Suez and Bombay.
-Two men were promenading up and down the wharves, among the crowd of natives and strangers who were sojourning at this once straggling village-now,
+Two men were promenading up and down the wharves, among the crowd of natives and strangers who were sojourning at this once straggling village—now,
 thanks to the enterprise of M. Lesseps, a fast-growing town.
 One was the British consul at Suez, who, despite the prophecies of the English Government, and the unfavourable predictions of Stephenson,
 was in the habit of seeing, from his office window, English ships daily passing to and fro on the great canal,
@@ -495,7 +495,7 @@ Fix instinctively took the passport, and with a rapid glance read the descriptio
 An involuntary motion of surprise nearly escaped him,
 for the description in the passport was identical with that of the bank robber which he had received from Scotland Yard.
 “Is this your passport?” asked he.
-“No, it’s my master’s.” “And your master is-” “He stayed on board.” “But he must go to the consul’s in person, so as to establish his identity.” “Oh,
+“No, it’s my master’s.” “And your master is—” “He stayed on board.” “But he must go to the consul’s in person, so as to establish his identity.” “Oh,
 is that necessary?” “Quite indispensable.” “And where is the consulate?” “There, on the corner of the square,” said Fix,
 pointing to a house two hundred steps off.
 “I’ll go and fetch my master, who won’t be much pleased, however, to be disturbed.” The passenger bowed to Fix, and returned to the steamer.
@@ -506,7 +506,7 @@ The detective passed down the quay, and rapidly made his way to the consul’s o
 “I have strong reasons for believing that my man is a passenger on the ‘Mongolia.’” And he narrated what had just passed concerning the passport.
 “Well, Mr.
 Fix,” replied the consul, “I shall not be sorry to see the rascal’s face;
-but perhaps he won’t come here-that is, if he is the person you suppose him to be.
+but perhaps he won’t come here—that is, if he is the person you suppose him to be.
 A robber doesn’t quite like to leave traces of his flight behind him;
 and, besides, he is not obliged to have his passport countersigned.” “If he is as shrewd as I think he is, consul,
 he will come.” “To have his passport _visaed?_” “Yes.
@@ -514,13 +514,13 @@ Passports are only good for annoying honest folks, and aiding in the flight of r
 I assure you it will be quite the thing for him to do; but I hope you will not _visa_ the passport.” “Why not?
 If the passport is genuine I have no right to refuse.” “Still, I must keep this man here until I can get a warrant to arrest him from London.” “Ah,
 that’s your look-out.
-But I cannot-” The consul did not finish his sentence, for as he spoke a knock was heard at the door, and two strangers entered,
+But I cannot—” The consul did not finish his sentence, for as he spoke a knock was heard at the door, and two strangers entered,
 one of whom was the servant whom Fix had met on the quay.
 The other, who was his master, held out his passport with the request that the consul would do him the favour to _visa_ it.
 The consul took the document and carefully read it, whilst Fix observed, or rather devoured, the stranger with his eyes from a corner of the room.
 “You are Mr. Phileas Fogg?” said the consul, after reading the passport.
 “I am.” “And this man is your servant?” “He is: a Frenchman,
-named Passepartout.” “You are from London?” “Yes.” “And you are going-” “To Bombay.” “Very good, sir.
+named Passepartout.” “You are from London?” “Yes.” “And you are going—” “To Bombay.” “Very good, sir.
 You know that a _visa_ is useless, and that no passport is required?” “I know it, sir,” replied Phileas Fogg;
 “but I wish to prove, by your _visa_, that I came by Suez.” “Very well, sir.” The consul proceeded to sign and date the passport,
 after which he added his official seal.
@@ -529,7 +529,7 @@ Mr. Fogg paid the customary fee, coldly bowed, and went out, followed by his ser
 “Well, he looks and acts like a perfectly honest man,” replied the consul.
 “Possibly; but that is not the question.
 Do you think, consul, that this phlegmatic gentleman resembles, feature by feature, the robber whose description I have received?” “I concede that;
-but then, you know, all descriptions-” “I’ll make certain of it,” interrupted Fix.
+but then, you know, all descriptions—” “I’ll make certain of it,” interrupted Fix.
 “The servant seems to me less mysterious than the master; besides, he’s a Frenchman, and can’t help talking.
 Excuse me for a little while, consul.” Fix started off in search of Passepartout.
 Meanwhile Mr.
@@ -543,7 +543,7 @@ He took up his note-book, which contained the following memoranda: “Left Londo
 “Total of hours spent, 158½;
 or, in days, six days and a half.” These dates were inscribed in an itinerary divided into columns, indicating the month, the day of the month,
 and the day for the stipulated and actual arrivals at each principal point Paris, Brindisi, Suez, Bombay, Calcutta, Singapore, Hong Kong, Yokohama,
-San Francisco, New York, and London-from the 2nd of October to the 21st of December;
+San Francisco, New York, and London—from the 2nd of October to the 21st of December;
 and giving a space for setting down the gain made or the loss suffered on arrival at each locality.
 This methodical record thus contained an account of everything needed, and Mr. Fogg always knew whether he was behind-hand or in advance of his time.
 On this Friday, October 9th, he noted his arrival at Suez, and observed that he had as yet neither gained nor lost.
@@ -587,17 +587,17 @@ either: he has offered a large reward to the engineer of the ‘Mongolia’ if h
 master a long time?” “Why, no;
 I entered his service the very day we left London.” The effect of these replies upon the already suspicious and excited detective may be imagined.
 The hasty departure from London soon after the robbery; the large sum carried by Mr.
-Fogg; his eagerness to reach distant countries; the pretext of an eccentric and foolhardy bet-all confirmed Fix in his theory.
+Fogg; his eagerness to reach distant countries; the pretext of an eccentric and foolhardy bet—all confirmed Fix in his theory.
 He continued to pump poor Passepartout, and learned that he really knew little or nothing of his master, who lived a solitary existence in London,
 was said to be rich, though no one knew whence came his riches, and was mysterious and impenetrable in his affairs and habits.
 Fix felt sure that Phileas Fogg would not land at Suez, but was really going on to Bombay.
 “Is Bombay far from here?” asked Passepartout.
 “Pretty far.
 It is a ten days’ voyage by sea.” “And in what country is Bombay?” “India.” “In Asia?” “Certainly.” “The deuce!
-I was going to tell you there’s one thing that worries me-my burner!” “What burner?” “My gas-burner, which I forgot to turn off,
+I was going to tell you there’s one thing that worries me—my burner!” “What burner?” “My gas-burner, which I forgot to turn off,
 and which is at this moment burning at my expense.
 I have calculated, monsieur, that I lose two shillings every four and twenty hours, exactly sixpence more than I earn;
-and you will understand that the longer our journey-” Did Fix pay any attention to Passepartout’s trouble about the gas?
+and you will understand that the longer our journey—” Did Fix pay any attention to Passepartout’s trouble about the gas?
 It is not probable.
 He was not listening, but was cogitating a project.
 Passepartout and he had now reached the shop, where Fix left his companion to make his purchases, after recommending him not to miss the steamer,
@@ -637,7 +637,7 @@ When the wind came from the African or Asian coast the “Mongolia,” with her 
 Then the ladies speedily disappeared below; the pianos were silent; singing and dancing suddenly ceased.
 Yet the good ship ploughed straight on, unretarded by wind or wave, towards the straits of Bab-el-Mandeb.
 What was Phileas Fogg doing all this time?
-It might be thought that, in his anxiety, he would be constantly watching the changes of the wind, the disorderly raging of the billows-every chance,
+It might be thought that, in his anxiety, he would be constantly watching the changes of the wind, the disorderly raging of the billows—every chance,
 in short, which might force the “Mongolia” to slacken her speed, and thus interrupt his journey.
 But, if he thought of these possibilities, he did not betray the fact by any outward sign.
 Always the same impassible member of the Reform Club, whom no incident could surprise, as unvarying as the ship’s chronometers,
@@ -659,7 +659,7 @@ He was pleased, on the day after leaving Suez, to find on deck the obliging pers
 “If I am not mistaken,” said he, approaching this person, with his most amiable smile,
 “you are the gentleman who so kindly volunteered to guide me at Suez?” “Ah!
 I quite recognise you.
-You are the servant of the strange Englishman-” “Just so, monsieur-” “Fix.” “Monsieur Fix,” resumed Passepartout, “I’m charmed to find you on board.
+You are the servant of the strange Englishman—” “Just so, monsieur—” “Fix.” “Monsieur Fix,” resumed Passepartout, “I’m charmed to find you on board.
 Where are you bound?” “Like you, to Bombay.” “That’s capital!
 Have you made this trip before?” “Several times.
 I am one of the agents of the Peninsular Company.” “Then you know India?” “Why yes,” replied Fix, who spoke cautiously.
@@ -671,7 +671,7 @@ pretending to make the tour of the world in eighty days!
 No; all these gymnastics, you may be sure, will cease at Bombay.” “And Mr. Fogg is getting on well?” asked Fix, in the most natural tone in the world.
 “Quite well, and I too.
 I eat like a famished ogre; it’s the sea air.” “But I never see your master on deck.” “Never; he hasn’t the least curiosity.” “Do you know, Mr.
-Passepartout, that this pretended tour in eighty days may conceal some secret errand-perhaps a diplomatic mission?” “Faith, Monsieur Fix,
+Passepartout, that this pretended tour in eighty days may conceal some secret errand—perhaps a diplomatic mission?” “Faith, Monsieur Fix,
 I assure you I know nothing about it, nor would I give half a crown to find out.” After this meeting,
 Passepartout and Fix got into the habit of chatting together, the latter making it a point to gain the worthy man’s confidence.
 He frequently offered him a glass of whiskey or pale ale in the steamer bar-room, which Passepartout never failed to accept with graceful alacrity,
@@ -744,8 +744,8 @@ Mr.
 Fogg, after bidding good-bye to his whist partners, left the steamer, gave his servant several errands to do,
 urged it upon him to be at the station promptly at eight, and, with his regular step, which beat to the second, like an astronomical clock,
 directed his steps to the passport office.
-As for the wonders of Bombay-its famous city hall, its splendid library, its forts and docks, its bazaars, mosques, synagogues,
-its Armenian churches, and the noble pagoda on Malabar Hill, with its two polygonal towers-he cared not a straw to see them.
+As for the wonders of Bombay—its famous city hall, its splendid library, its forts and docks, its bazaars, mosques, synagogues,
+its Armenian churches, and the noble pagoda on Malabar Hill, with its two polygonal towers—he cared not a straw to see them.
 He would not deign to examine even the masterpieces of Elephanta, or the mysterious hypogea, concealed south-east from the docks,
 or those fine remains of Buddhist architecture, the Kanherian grottoes of the island of Salcette.
 Having transacted his business at the passport office, Phileas Fogg repaired quietly to the railway station, where he ordered dinner.
@@ -754,7 +754,7 @@ Mr. Fogg accordingly tasted the dish, but, despite its spiced sauce, found it fa
 He rang for the landlord, and, on his appearance, said, fixing his clear eyes upon him, “Is this rabbit, sir?” “Yes,
 my lord,” the rogue boldly replied, “rabbit from the jungles.” “And this rabbit did not mew when he was killed?” “Mew, my lord!
 What, a rabbit mew!
-I swear to you-” “Be so good, landlord, as not to swear, but remember this: cats were formerly considered, in India, as sacred animals.
+I swear to you—” “Be so good, landlord, as not to swear, but remember this: cats were formerly considered, in India, as sacred animals.
 That was a good time.” “For the cats, my lord?” “Perhaps for the travellers as well!” After which Mr. Fogg quietly continued his dinner.
 Fix had gone on shore shortly after Mr. Fogg, and his first destination was the headquarters of the Bombay police.
 He made himself known as a London detective, told his business at Bombay, and the position of affairs relative to the supposed robber,
@@ -772,11 +772,11 @@ He began to ask himself if this bet that Mr.
 Fogg talked about was not really in good earnest, and whether his fate was not in truth forcing him, despite his love of repose,
 around the world in eighty days!
 Having purchased the usual quota of shirts and shoes, he took a leisurely promenade about the streets,
-where crowds of people of many nationalities-Europeans, Persians with pointed caps, Banyas with round turbans, Sindes with square bonnets,
-Parsees with black mitres, and long-robed Armenians-were collected.
+where crowds of people of many nationalities—Europeans, Persians with pointed caps, Banyas with round turbans, Sindes with square bonnets,
+Parsees with black mitres, and long-robed Armenians—were collected.
 It happened to be the day of a Parsee festival.
-These descendants of the sect of Zoroaster-the most thrifty, civilised, intelligent, and austere of the East Indians,
-among whom are counted the richest native merchants of Bombay-were celebrating a sort of religious carnival, with processions and shows,
+These descendants of the sect of Zoroaster—the most thrifty, civilised, intelligent, and austere of the East Indians,
+among whom are counted the richest native merchants of Bombay—were celebrating a sort of religious carnival, with processions and shows,
 in the midst of which Indian dancing-girls, clothed in rose-coloured gauze, looped up with gold and silver, danced airily, but with perfect modesty,
 to the sound of viols and the clanging of tambourines.
 It is needless to say that Passepartout watched these curious ceremonies with staring eyes and gaping mouth,
@@ -818,8 +818,8 @@ But Phileas Fogg, who was not travelling, but only describing a circumference, t
 he was a solid body, traversing an orbit around the terrestrial globe, according to the laws of rational mechanics.
 He was at this moment calculating in his mind the number of hours spent since his departure from London, and,
 had it been in his nature to make a useless demonstration, would have rubbed his hands for satisfaction.
-Sir Francis Cromarty had observed the oddity of his travelling companion-although the only opportunity he had for studying him had been while he was
-dealing the cards, and between two rubbers-and questioned himself whether a human heart really beat beneath this cold exterior,
+Sir Francis Cromarty had observed the oddity of his travelling companion—although the only opportunity he had for studying him had been while he was
+dealing the cards, and between two rubbers—and questioned himself whether a human heart really beat beneath this cold exterior,
 and whether Phileas Fogg had any sense of the beauties of nature.
 The brigadier-general was free to mentally confess that, of all the eccentric persons he had ever met,
 none was comparable to this product of the exact sciences.
@@ -839,7 +839,7 @@ on the other side.” “Such a delay would not have deranged my plans in the le
 Fogg,” pursued Sir Francis, “you run the risk of having some difficulty about this worthy fellow’s adventure at the pagoda.” Passepartout,
 his feet comfortably wrapped in his travelling-blanket, was sound asleep and did not dream that anybody was talking about him.
 “The Government is very severe upon that kind of offence.
-It takes particular care that the religious customs of the Indians should be respected, and if your servant were caught-” “Very well,
+It takes particular care that the religious customs of the Indians should be respected, and if your servant were caught—” “Very well,
 Sir Francis,” replied Mr. Fogg; “if he had been caught he would have been condemned and punished, and then would have quietly returned to Europe.
 I don’t see how this affair could have delayed his master.” The conversation fell again.
 During the night the train left the mountains behind, and passed Nassik, and the next day proceeded over the flat,
@@ -903,7 +903,7 @@ The papers were mistaken.” “Yet you sell tickets from Bombay to Calcutta,”
 Passepartout would willingly have knocked the conductor down, and did not dare to look at his master.
 “Sir Francis,” said Mr. Fogg quietly, “we will, if you please, look about for some means of conveyance to Allahabad.” “Mr.
 Fogg, this is a delay greatly to your disadvantage.” “No, Sir Francis; it was foreseen.” “What!
-You knew that the way-” “Not at all; but I knew that some obstacle or other would sooner or later arise on my route.
+You knew that the way—” “Not at all; but I knew that some obstacle or other would sooner or later arise on my route.
 Nothing, therefore, is lost.
 I have two days, which I have already gained, to sacrifice.
 A steamer leaves Calcutta for Hong Kong at noon, on the 25th.
@@ -925,7 +925,7 @@ The elephant, which its owner had reared, not for a beast of burden, but for war
 The Indian had begun already, by often irritating him, and feeding him every three months on sugar and butter,
 to impart to him a ferocity not in his nature, this method being often employed by those who train the Indian elephants for battle.
 Happily, however, for Mr. Fogg, the animal’s instruction in this direction had not gone far, and the elephant still preserved his natural gentleness.
-Kiouni-this was the name of the beast-could doubtless travel rapidly for a long time, and, in default of any other means of conveyance, Mr.
+Kiouni—this was the name of the beast—could doubtless travel rapidly for a long time, and, in default of any other means of conveyance, Mr.
 Fogg resolved to hire him.
 But elephants are far from cheap in India, where they are becoming scarce, the males, which alone are suitable for circus shows, are much sought,
 especially as but few of them are domesticated.
@@ -1052,10 +1052,10 @@ Upon the car, which was drawn by four richly caparisoned zebus, stood a hideous 
 with haggard eyes, dishevelled hair, protruding tongue, and lips tinted with betel.
 It stood upright upon the figure of a prostrate and headless giant.
 Sir Francis, recognising the statue, whispered, “The goddess Kali;
-the goddess of love and death.” “Of death, perhaps,” muttered back Passepartout, “but of love-that ugly old hag?
+the goddess of love and death.” “Of death, perhaps,” muttered back Passepartout, “but of love—that ugly old hag?
 Never!” The Parsee made a motion to keep silence.
 A group of old fakirs were capering and making a wild ado round the statue;
-these were striped with ochre, and covered with cuts whence their blood issued drop by drop-stupid fanatics, who, in the great Indian ceremonies,
+these were striped with ochre, and covered with cuts whence their blood issued drop by drop—stupid fanatics, who, in the great Indian ceremonies,
 still throw themselves under the wheels of Juggernaut.
 Some Brahmins, clad in all the sumptuousness of Oriental apparel, and leading a woman who faltered at every step, followed.
 This woman was young, and as fair as a European.
@@ -1095,7 +1095,7 @@ and now said: “The sacrifice which will take place to-morrow at dawn is not a 
 in Bundelcund.” “But the wretched creature did not seem to be making any resistance,” observed Sir Francis.
 “That was because they had intoxicated her with fumes of hemp and opium.” “But where are they taking her?” “To the pagoda of Pillaji,
 two miles from here;
-she will pass the night there.” “And the sacrifice will take place-” “To-morrow,
+she will pass the night there.” “And the sacrifice will take place—” “To-morrow,
 at the first light of dawn.” The guide now led the elephant out of the thicket, and leaped upon his neck.
 Just at the moment that he was about to urge Kiouni forward with a peculiar whistle, Mr.
 Fogg stopped him, and, turning to Sir Francis Cromarty, said, “Suppose we save this woman.” “Save the woman, Mr.
@@ -1192,7 +1192,7 @@ The tranquil Fogg waited, without betraying any emotion.
 “Stop,” said Fogg.
 “I am only due at Allahabad tomorrow before noon.” “But what can you hope to do?” asked Sir Francis.
 “In a few hours it will be daylight,
-and-” “The chance which now seems lost may present itself at the last moment.” Sir Francis would have liked to read Phileas Fogg’s eyes.
+and—” “The chance which now seems lost may present itself at the last moment.” Sir Francis would have liked to read Phileas Fogg’s eyes.
 What was this cool Englishman thinking of?
 Was he planning to make a rush for the young woman at the very moment of the sacrifice, and boldly snatch her from her executioners?
 This would be utter folly, and it was hard to admit that Fogg was such a fool.
@@ -1201,7 +1201,7 @@ The guide led them to the rear of the glade, where they were able to observe the
 Meanwhile Passepartout, who had perched himself on the lower branches of a tree, was resolving an idea which had at first struck him like a flash,
 and which was now firmly lodged in his brain.
 He had commenced by saying to himself, “What folly!” and then he repeated, “Why not, after all?
-It’s a chance,-perhaps the only one;
+It’s a chance,—perhaps the only one;
 and with such sots!” Thinking thus, he slipped, with the suppleness of a serpent, to the lowest branches, the ends of which bent almost to the ground.
 The hours passed, and the lighter shades now announced the approach of day, though it was not yet light.
 This was the moment.
@@ -1320,7 +1320,7 @@ while Passepartout, abashed, kept repeating that “it wasn’t worth telling.�
 her fine eyes interpreted her gratitude better than her lips.
 Then, as her thoughts strayed back to the scene of the sacrifice, and recalled the dangers which still menaced her, she shuddered with terror.
 Phileas Fogg understood what was passing in Aouda’s mind, and offered, in order to reassure her, to escort her to Hong Kong,
-where she might remain safely until the affair was hushed up-an offer which she eagerly and gratefully accepted.
+where she might remain safely until the affair was hushed up—an offer which she eagerly and gratefully accepted.
 She had, it seems, a Parsee relation, who was one of the principal merchants of Hong Kong, which is wholly an English city,
 though on an island on the Chinese coast.
 At half-past twelve the train stopped at Benares.
@@ -1377,7 +1377,7 @@ They first passed through the “black town,” with its narrow streets, its mis
 then through the “European town,” which presented a relief in its bright brick mansions, shaded by coconut-trees and bristling with masts, where,
 although it was early morning, elegantly dressed horsemen and handsome equipages were passing back and forth.
 The carriage stopped before a modest-looking house, which, however, did not have the appearance of a private mansion.
-The policeman having requested his prisoners-for so, truly, they might be called-to descend, conducted them into a room with barred windows,
+The policeman having requested his prisoners—for so, truly, they might be called—to descend, conducted them into a room with barred windows,
 and said: “You will appear before Judge Obadiah at half-past eight.” He then retired, and closed the door.
 “Why, we are prisoners!” exclaimed Passepartout, falling into a chair.
 Aouda, with an emotion she tried to conceal, said to Mr. Fogg: “Sir, you must leave me to my fate!
@@ -1407,7 +1407,7 @@ Passepartout was getting nervous, for the hands on the face of the big clock ove
 “Good,” said the judge.
 “You have been looked for, prisoners, for two days on the trains from Bombay.” “But of what are we accused?” asked Passepartout, impatiently.
 “You are about to be informed.” “I am an English subject, sir,” said Mr.
-Fogg, “and I have the right-” “Have you been ill-treated?” “Not at all.” “Very well;
+Fogg, “and I have the right—” “Have you been ill-treated?” “Not at all.” “Very well;
 let the complainants come in.” A door was swung open by order of the judge, and three Indian priests entered.
 “That’s it,” muttered Passepartout;
 “these are the rogues who were going to burn our young lady.” The priests took their places in front of the judge,
@@ -1483,7 +1483,7 @@ Fogg had already spent more than five thousand pounds on the way,
 and the percentage of the sum recovered from the bank robber promised to the detectives, was rapidly diminishing.
 CHAPTER XVI. IN WHICH FIX DOES NOT SEEM TO UNDERSTAND IN THE LEAST WHAT IS SAID TO HIM
 
-The “Rangoon”-one of the Peninsular and Oriental Company’s boats plying in the Chinese and Japanese seas-was a screw steamer, built of iron,
+The “Rangoon”—one of the Peninsular and Oriental Company’s boats plying in the Chinese and Japanese seas—was a screw steamer, built of iron,
 weighing about seventeen hundred and seventy tons, and with engines of four hundred horse-power.
 She was as fast, but not as well fitted up,
 as the “Mongolia,” and Aouda was not as comfortably provided for on board of her as Phileas Fogg could have wished.
@@ -1504,7 +1504,7 @@ Many of the Parsee merchants have made great fortunes there by dealing in cotton
 and one of them, Sir Jametsee Jeejeebhoy, was made a baronet by the English government.
 Aouda was a relative of this great man, and it was his cousin, Jeejeeh, whom she hoped to join at Hong Kong.
 Whether she would find a protector in him she could not tell; but Mr.
-Fogg essayed to calm her anxieties, and to assure her that everything would be mathematically-he used the very word-arranged.
+Fogg essayed to calm her anxieties, and to assure her that everything would be mathematically—he used the very word—arranged.
 Aouda fastened her great eyes, “clear as the sacred lakes of the Himalaya,” upon him;
 but the intractable Fogg, as reserved as ever, did not seem at all inclined to throw himself into this lake.
 The first few days of the voyage passed prosperously, amid favourable weather and propitious winds, and they soon came in sight of the great Andaman,
@@ -1565,8 +1565,8 @@ The detective rushed forward with every appearance of extreme surprise, and excl
 are you on board?” returned the really astonished Passepartout, recognising his crony of the “Mongolia.” “Why, I left you at Bombay,
 and here you are, on the way to Hong Kong!
 Are you going round the world too?” “No, no,” replied Fix;
-“I shall stop at Hong Kong-at least for some days.” “Hum!” said Passepartout, who seemed for an instant perplexed.
-“But how is it I have not seen you on board since we left Calcutta?” “Oh, a trifle of sea-sickness-I’ve been staying in my berth.
+“I shall stop at Hong Kong—at least for some days.” “Hum!” said Passepartout, who seemed for an instant perplexed.
+“But how is it I have not seen you on board since we left Calcutta?” “Oh, a trifle of sea-sickness—I’ve been staying in my berth.
 The Gulf of Bengal does not agree with me as well as the Indian Ocean.
 And how is Mr. Fogg?” “As well and as punctual as ever, not a day behind time!
 But, Monsieur Fix, you don’t know that we have a young lady with us.” “A young lady?” replied the detective, not seeming to comprehend what was said.
@@ -1590,7 +1590,7 @@ It was really worth considering why this certainly very amiable and complacent p
 had then encountered on board the “Mongolia,” who disembarked at Bombay, which he announced as his destination,
 and now turned up so unexpectedly on the “Rangoon,” was following Mr. Fogg’s tracks step by step.
 What was Fix’s object?
-Passepartout was ready to wager his Indian shoes-which he religiously preserved-that Fix would also leave Hong Kong at the same time with them,
+Passepartout was ready to wager his Indian shoes—which he religiously preserved—that Fix would also leave Hong Kong at the same time with them,
 and probably on the same steamer.
 Passepartout might have cudgelled his brain for a century without hitting upon the real object which the detective had in view.
 He never could have imagined that Phileas Fogg was being tracked as a robber around the globe.
@@ -1624,9 +1624,9 @@ After a drive of two hours through the country, Aouda and Mr.
 Fogg returned to the town, which is a vast collection of heavy-looking, irregular houses,
 surrounded by charming gardens rich in tropical fruits and plants;
 and at ten o’clock they re-embarked, closely followed by the detective, who had kept them constantly in sight.
-Passepartout, who had been purchasing several dozen mangoes-a fruit as large as good-sized apples,
+Passepartout, who had been purchasing several dozen mangoes—a fruit as large as good-sized apples,
 of a dark-brown colour outside and a bright red within, and whose white pulp, melting in the mouth,
-affords gourmands a delicious sensation-was waiting for them on deck.
+affords gourmands a delicious sensation—was waiting for them on deck.
 He was only too glad to offer some mangoes to Aouda, who thanked him very gracefully for them.
 At eleven o’clock the “Rangoon” rode out of Singapore harbour, and in a few hours the high mountains of Malacca, with their forests,
 inhabited by the most beautifully-furred tigers in the world, were lost to view.
@@ -1657,7 +1657,7 @@ Yet, in speaking as he did, the man evidently meant more than he expressed.
 Passepartout went still further the next day; he could not hold his tongue.
 “Mr.
 Fix,” said he, in a bantering tone, “shall we be so unfortunate as to lose you when we get to Hong Kong?” “Why,” responded Fix, a little embarrassed,
-“I don’t know; perhaps-” “Ah, if you would only go on with us!
+“I don’t know; perhaps—” “Ah, if you would only go on with us!
 An agent of the Peninsular Company, you know, can’t stop on the way!
 You were only going to Bombay, and here you are in China.
 America is not far off, and from America to Europe is only a step.” Fix looked intently at his companion,
@@ -1714,7 +1714,7 @@ The storm greatly pleased him.
 His satisfaction would have been complete had the “Rangoon” been forced to retreat before the violence of wind and waves.
 Each delay filled him with hope, for it became more and more probable that Fogg would be obliged to remain some days at Hong Kong;
 and now the heavens themselves became his allies, with the gusts and squalls.
-It mattered not that they made him sea-sick-he made no account of this inconvenience;
+It mattered not that they made him sea-sick—he made no account of this inconvenience;
 and, whilst his body was writhing under their effects, his spirit bounded with hopeful exultation.
 Passepartout was enraged beyond expression by the unpropitious weather.
 Everything had gone so well till now!
@@ -1740,7 +1740,7 @@ Phileas Fogg was twenty-four hours behind-hand, and the Yokohama steamer would, 
 The pilot went on board at six, and took his place on the bridge, to guide the “Rangoon” through the channels to the port of Hong Kong.
 Passepartout longed to ask him if the steamer had left for Yokohama;
 but he dared not, for he wished to preserve the spark of hope, which still remained till the last moment.
-He had confided his anxiety to Fix who-the sly rascal!-tried to console him by saying that Mr.
+He had confided his anxiety to Fix who—the sly rascal!—tried to console him by saying that Mr.
 Fogg would be in time if he took the next boat; but this only put Passepartout in a passion.
 Mr.
 Fogg, bolder than his servant, did not hesitate to approach the pilot,
@@ -1770,13 +1770,13 @@ A room was engaged for the young woman, and Mr. Fogg, after seeing that she want
 He instructed Passepartout to remain at the hotel until his return, that Aouda might not be left entirely alone.
 Mr. Fogg repaired to the Exchange, where, he did not doubt, every one would know so wealthy and considerable a personage as the Parsee merchant.
 Meeting a broker, he made the inquiry, to learn that Jeejeeh had left China two years before, and, retiring from business with an immense fortune,
-had taken up his residence in Europe-in Holland the broker thought, with the merchants of which country he had principally traded.
+had taken up his residence in Europe—in Holland the broker thought, with the merchants of which country he had principally traded.
 Phileas Fogg returned to the hotel, begged a moment’s conversation with Aouda, and without more ado,
 apprised her that Jeejeeh was no longer at Hong Kong, but probably in Holland.
 Aouda at first said nothing.
 She passed her hand across her forehead, and reflected a few moments.
 Then, in her sweet, soft voice, she said: “What ought I to do, Mr. Fogg?” “It is very simple,” responded the gentleman.
-“Go on to Europe.” “But I cannot intrude-” “You do not intrude, nor do you in the least embarrass my project.
+“Go on to Europe.” “But I cannot intrude—” “You do not intrude, nor do you in the least embarrass my project.
 Passepartout!” “Monsieur.” “Go to the ‘Carnatic,’ and engage three cabins.” Passepartout, delighted that the young woman,
 who was very gracious to him, was going to continue the journey with them, went off at a brisk gait to obey his master’s order.
 CHAPTER XIX. IN WHICH PASSEPARTOUT TAKES A TOO GREAT INTEREST IN HIS MASTER, AND WHAT COMES OF IT
@@ -1826,7 +1826,7 @@ carried and laid him upon the bed.
 The bed already supported twenty of these stupefied sots.
 Fix and Passepartout saw that they were in a smoking-house haunted by those wretched, cadaverous,
 idiotic creatures to whom the English merchants sell every year the miserable drug called opium,
-to the amount of one million four hundred thousand pounds-thousands devoted to one of the most despicable vices which afflict humanity!
+to the amount of one million four hundred thousand pounds—thousands devoted to one of the most despicable vices which afflict humanity!
 The Chinese government has in vain attempted to deal with the evil by stringent laws.
 It passed gradually from the rich, to whom it was at first exclusively reserved, to the lower classes, and then its ravages could not be arrested.
 Opium is smoked everywhere, at all times, by men and women, in the Celestial Empire;
@@ -1847,7 +1847,7 @@ Fix’s face seemed to have a singular expression.
 He resumed his seat.
 “What is it that you have to say?” Fix placed his hand upon Passepartout’s arm, and, lowering his voice, said,
 “You have guessed who I am?” “Parbleu!” said Passepartout, smiling.
-“Then I’m going to tell you everything-” “Now that I know everything, my friend!
+“Then I’m going to tell you everything—” “Now that I know everything, my friend!
 Ah!
 that’s very good.
 But go on, go on.
@@ -1856,7 +1856,7 @@ First, though, let me tell you that those gentlemen have put themselves to a use
 It’s clear that you don’t know how large the sum is.” “Of course I do,” returned Passepartout.
 “Twenty thousand pounds.” “Fifty-five thousand!” answered Fix, pressing his companion’s hand.
 “What!” cried the Frenchman.
-“Has Monsieur Fogg dared-fifty-five thousand pounds!
+“Has Monsieur Fogg dared—fifty-five thousand pounds!
 Well, there’s all the more reason for not losing an instant,” he continued, getting up hastily.
 Fix pushed Passepartout back in his chair, and resumed: “Fifty-five thousand pounds; and if I succeed, I get two thousand pounds.
 If you’ll help me, I’ll let you have five hundred of them.” “Help you?” cried Passepartout, whose eyes were standing wide open.
@@ -1883,7 +1883,7 @@ It was evident that the servant was not the master’s accomplice, as Fix had be
 “Well,” said the detective to himself, “as he is not an accomplice, he will help me.” He had no time to lose: Fogg must be detained at Hong Kong,
 so he resolved to make a clean breast of it.
 “Listen to me,” said Fix abruptly.
-“I am not, as you think, an agent of the members of the Reform Club-” “Bah!” retorted Passepartout, with an air of raillery.
+“I am not, as you think, an agent of the members of the Reform Club—” “Bah!” retorted Passepartout, with an air of raillery.
 “I am a police detective, sent out here by the London office.” “You, a detective?” “I will prove it.
 Here is my commission.” Passepartout was speechless with astonishment when Fix displayed this document, the genuineness of which could not be doubted.
 “Mr.
@@ -1903,12 +1903,12 @@ And yet how many presumptions there were against him!
 Passepartout essayed to reject the suspicions which forced themselves upon his mind; he did not wish to believe that his master was guilty.
 “Well, what do you want of me?” said he, at last, with an effort.
 “See here,” replied Fix; “I have tracked Mr. Fogg to this place, but as yet I have failed to receive the warrant of arrest for which I sent to London.
-You must help me to keep him here in Hong Kong-” “I!
-But I-” “I will share with you the two thousand pounds reward offered by the Bank of England.” “Never!” replied Passepartout, who tried to rise,
+You must help me to keep him here in Hong Kong—” “I!
+But I—” “I will share with you the two thousand pounds reward offered by the Bank of England.” “Never!” replied Passepartout, who tried to rise,
 but fell back, exhausted in mind and body.
 “Mr.
-Fix,” he stammered, “even should what you say be true-if my master is really the robber you are seeking for-which I deny-I have been, am,
-in his service; I have seen his generosity and goodness; and I will never betray him-not for all the gold in the world.
+Fix,” he stammered, “even should what you say be true—if my master is really the robber you are seeking for—which I deny—I have been, am,
+in his service; I have seen his generosity and goodness; and I will never betray him—not for all the gold in the world.
 I come from a village where they don’t eat that kind of bread!” “You refuse?” “I refuse.” “Consider that I’ve said nothing,” said Fix;
 “and let us drink.” “Yes; let us drink!” Passepartout felt himself yielding more and more to the effects of the liquor.
 Fix, seeing that he must, at all hazards, be separated from his master, wished to entirely overcome him.
@@ -1928,7 +1928,7 @@ making the necessary purchases for the long voyage before them.
 It was all very well for an Englishman like Mr.
 Fogg to make the tour of the world with a carpet-bag; a lady could not be expected to travel comfortably under such conditions.
 He acquitted his task with characteristic serenity, and invariably replied to the remonstrances of his fair companion,
-who was confused by his patience and generosity: “It is in the interest of my journey-a part of my programme.” The purchases made,
+who was confused by his patience and generosity: “It is in the interest of my journey—a part of my programme.” The purchases made,
 they returned to the hotel, where they dined at a sumptuously served _table-d’hôte;_ after which Aouda,
 shaking hands with her protector after the English fashion, retired to her room for rest.
 Mr. Fogg absorbed himself throughout the evening in the perusal of the _Times_ and _Illustrated London News_.
@@ -1946,7 +1946,7 @@ but no sign of disappointment appeared on his face, and he merely remarked to Ao
 nothing more.” At this moment a man who had been observing him attentively approached.
 It was Fix, who, bowing, addressed Mr.
 Fogg: “Were you not, like me, sir, a passenger by the ‘Rangoon,’ which arrived yesterday?” “I was, sir,” replied Mr. Fogg coldly.
-“But I have not the honour-” “Pardon me; I thought I should find your servant here.” “Do you know where he is, sir?” asked Aouda anxiously.
+“But I have not the honour—” “Pardon me; I thought I should find your servant here.” “Do you know where he is, sir?” asked Aouda anxiously.
 “What!” responded Fix, feigning surprise.
 “Is he not with you?” “No,” said Aouda.
 “He has not made his appearance since yesterday.
@@ -1967,8 +1967,8 @@ Fix began to hope again.
 But Mr.
 Fogg, far from being discouraged, was continuing his search, resolved not to stop if he had to resort to Macao,
 when he was accosted by a sailor on one of the wharves.
-“Is your honour looking for a boat?” “Have you a boat ready to sail?” “Yes, your honour; a pilot-boat-No.
-43-the best in the harbour.” “Does she go fast?” “Between eight and nine knots the hour.
+“Is your honour looking for a boat?” “Have you a boat ready to sail?” “Yes, your honour; a pilot-boat—No.
+43—the best in the harbour.” “Does she go fast?” “Between eight and nine knots the hour.
 Will you look at her?” “Yes.” “Your honour will be satisfied with her.
 Is it for a sea excursion?” “No;
 for a voyage.” “A voyage?” “Yes, will you agree to take me to Yokohama?” The sailor leaned on the railing, opened his eyes wide, and said,
@@ -1996,12 +1996,12 @@ It puts in at Yokohama and Nagasaki,
 but it starts from Shanghai.” “You are sure of that?” “Perfectly.” “And when does the boat leave Shanghai?” “On the 11th, at seven in the evening.
 We have, therefore, four days before us, that is ninety-six hours;
 and in that time, if we had good luck and a south-west wind, and the sea was calm,
-we could make those eight hundred miles to Shanghai.” “And you could go-” “In an hour;
+we could make those eight hundred miles to Shanghai.” “And you could go—” “In an hour;
 as soon as provisions could be got aboard and the sails put up.” “It is a bargain.
 Are you the master of the boat?” “Yes;
 John Bunsby,
-master of the ‘Tankadere.’” “Would you like some earnest-money?” “If it would not put your honour out-” “Here are two hundred pounds on account sir,”
-added Phileas Fogg, turning to Fix, “if you would like to take advantage-” “Thanks, sir; I was about to ask the favour.” “Very well.
+master of the ‘Tankadere.’” “Would you like some earnest-money?” “If it would not put your honour out—” “Here are two hundred pounds on account sir,”
+added Phileas Fogg, turning to Fix, “if you would like to take advantage—” “Thanks, sir; I was about to ask the favour.” “Very well.
 In half an hour we shall go on board.” “But poor Passepartout?” urged Aouda, who was much disturbed by the servant’s disappearance.
 “I shall do all I can to find him,” replied Phileas Fogg.
 While Fix, in a feverish, nervous state, repaired to the pilot-boat, the others directed their course to the police-station at Hong Kong.
@@ -2086,7 +2086,7 @@ The “Tankadere” still carried all sail, and was accomplishing her greatest c
 If the wind held as it was, the chances would be in her favour.
 During the day she kept along the coast, where the currents were favourable;
 the coast, irregular in profile, and visible sometimes across the clearings, was at most five miles distant.
-The sea was less boisterous, since the wind came off land-a fortunate circumstance for the boat, which would suffer, owing to its small tonnage,
+The sea was less boisterous, since the wind came off land—a fortunate circumstance for the boat, which would suffer, owing to its small tonnage,
 by a heavy surge on the sea.
 The breeze subsided a little towards noon, and set in from the south-west.
 The pilot put up his poles, but took them down again within two hours, as the wind freshened up anew.
@@ -2096,11 +2096,11 @@ which he accepted with secret chagrin.
 To travel at this man’s expense and live upon his provisions was not palatable to him.
 Still, he was obliged to eat, and so he ate.
 When the meal was over, he took Mr.
-Fogg apart, and said, “sir”-this “sir” scorched his lips, and he had to control himself to avoid collaring this “gentleman”-“sir,
+Fogg apart, and said, “sir”—this “sir” scorched his lips, and he had to control himself to avoid collaring this “gentleman”—“sir,
 you have been very kind to give me a passage on this boat.
-But, though my means will not admit of my expending them as freely as you, I must ask to pay my share-” “Let us not speak of that, sir,” replied Mr.
+But, though my means will not admit of my expending them as freely as you, I must ask to pay my share—” “Let us not speak of that, sir,” replied Mr.
 Fogg.
-“But, if I insist-” “No, sir,” repeated Mr. Fogg, in a tone which did not admit of a reply.
+“But, if I insist—” “No, sir,” repeated Mr. Fogg, in a tone which did not admit of a reply.
 “This enters into my general expenses.” Fix, as he bowed, had a stifled feeling, and, going forward, where he ensconced himself,
 did not open his mouth for the rest of the day.
 Meanwhile they were progressing famously, and John Bunsby was in high hope.
@@ -2154,8 +2154,8 @@ He thought awhile, and then asked his crew if it was not time to slacken speed.
 After a consultation he approached Mr.
 Fogg, and said, “I think, your honour, that we should do well to make for one of the ports on the coast.” “I think so too.” “Ah!” said the pilot.
 “But which one?” “I know of but one,” returned Mr. Fogg tranquilly.
-“And that is-” “Shanghai.” The pilot, at first, did not seem to comprehend; he could scarcely realise so much determination and tenacity.
-Then he cried, “Well-yes!
+“And that is—” “Shanghai.” The pilot, at first, did not seem to comprehend; he could scarcely realise so much determination and tenacity.
+Then he cried, “Well—yes!
 Your honour is right.
 To Shanghai!” So the “Tankadere” kept steadily on her northward track.
 The night was really terrible; it would be a miracle if the craft did not founder.
@@ -2180,7 +2180,7 @@ Had there been no storm, during which several hours were lost, they would be at 
 The wind grew decidedly calmer, and happily the sea fell with it.
 All sails were now hoisted, and at noon the “Tankadere” was within forty-five miles of Shanghai.
 There remained yet six hours in which to accomplish that distance.
-All on board feared that it could not be done, and every one-Phileas Fogg, no doubt, excepted-felt his heart beat with impatience.
+All on board feared that it could not be done, and every one—Phileas Fogg, no doubt, excepted—felt his heart beat with impatience.
 The boat must keep up an average of nine miles an hour, and the wind was becoming calmer every moment!
 It was a capricious breeze, coming from the coast, and after it passed the sea became smooth.
 Still, the “Tankadere” was so light, and her fine sails caught the fickle zephyrs so well, that,
@@ -2204,7 +2204,7 @@ CHAPTER XXII. IN WHICH PASSEPARTOUT FINDS OUT THAT, EVEN AT THE ANTIPODES, IT IS
 
 The “Carnatic,” setting sail from Hong Kong at half-past six on the 7th of November, directed her course at full steam towards Japan.
 She carried a large cargo and a well-filled cabin of passengers.
-Two state-rooms in the rear were, however, unoccupied-those which had been engaged by Phileas Fogg.
+Two state-rooms in the rear were, however, unoccupied—those which had been engaged by Phileas Fogg.
 The next day a passenger with a half-stupefied eye, staggering gait, and disordered hair, was seen to emerge from the second cabin,
 and to totter to a seat on deck.
 It was Passepartout;
@@ -2242,7 +2242,7 @@ Mr. Fogg was not there.
 Passepartout had only, however, to ask the purser the number of his master’s state-room.
 The purser replied that he did not know any passenger by the name of Fogg.
 “I beg your pardon,” said Passepartout persistently.
-“He is a tall gentleman, quiet, and not very talkative, and has with him a young lady-” “There is no young lady on board,” interrupted the purser.
+“He is a tall gentleman, quiet, and not very talkative, and has with him a young lady—” “There is no young lady on board,” interrupted the purser.
 “Here is a list of the passengers; you may see for yourself.” Passepartout scanned the list, but his master’s name was not upon it.
 All at once an idea struck him.
 “Ah!
@@ -2278,7 +2278,7 @@ This quarter occupied, with its streets, squares, docks, and warehouses, all the
 Here, as at Hong Kong and Calcutta, were mixed crowds of all races, Americans and English, Chinamen and Dutchmen,
 mostly merchants ready to buy or sell anything.
 The Frenchman felt himself as much alone among them as if he had dropped down in the midst of Hottentots.
-He had, at least, one resource,-to call on the French and English consuls at Yokohama for assistance.
+He had, at least, one resource,—to call on the French and English consuls at Yokohama for assistance.
 But he shrank from telling the story of his adventures, intimately connected as it was with that of his master;
 and, before doing so, he determined to exhaust all other means of aid.
 As chance did not favour him in the European quarter, he penetrated that inhabited by the native Japanese, determined, if necessary,
@@ -2293,13 +2293,13 @@ The streets were crowded with people.
 Priests were passing in processions, beating their dreary tambourines;
 police and custom-house officers with pointed hats encrusted with lac and carrying two sabres hung to their waists;
 soldiers, clad in blue cotton with white stripes, and bearing guns; the Mikado’s guards, enveloped in silken doubles, hauberks and coats of mail;
-and numbers of military folk of all ranks-for the military profession is as much respected in Japan as it is despised in China-went hither and
+and numbers of military folk of all ranks—for the military profession is as much respected in Japan as it is despised in China—went hither and
 thither in groups and pairs.
 Passepartout saw, too, begging friars, long-robed pilgrims, and simple civilians, with their warped and jet-black hair, big heads, long busts,
 slender legs, short stature, and complexions varying from copper-colour to a dead white, but never yellow, like the Chinese,
 from whom the Japanese widely differ.
-He did not fail to observe the curious equipages-carriages and palanquins, barrows supplied with sails, and litters made of bamboo;
-nor the women-whom he thought not especially handsome-who took little steps with their little feet, whereon they wore canvas shoes, straw sandals,
+He did not fail to observe the curious equipages—carriages and palanquins, barrows supplied with sails, and litters made of bamboo;
+nor the women—whom he thought not especially handsome—who took little steps with their little feet, whereon they wore canvas shoes, straw sandals,
 and clogs of worked wood, and who displayed tight-looking eyes, flat chests, teeth fashionably blackened, and gowns crossed with silken scarfs,
 tied in an enormous knot behind an ornament which the modern Parisian ladies seem to have borrowed from the dames of Japan.
 Passepartout wandered for several hours in the midst of this motley crowd, looking in at the windows of the rich and curious shops,
@@ -2320,7 +2320,7 @@ The worthy fellow had certainly taken good care to eat as hearty a breakfast as 
 as he had been walking about all day, the demands of hunger were becoming importunate.
 He observed that the butchers stalls contained neither mutton, goat, nor pork;
 and, knowing also that it is a sacrilege to kill cattle, which are preserved solely for farming,
-he made up his mind that meat was far from plentiful in Yokohama-nor was he mistaken;
+he made up his mind that meat was far from plentiful in Yokohama—nor was he mistaken;
 and, in default of butcher’s meat, he could have wished for a quarter of wild boar or deer, a partridge, or some quails, some game or fish, which,
 with rice, the Japanese eat almost exclusively.
 But he found it necessary to keep up a stout heart, and to postpone the meal he craved till the following morning.
@@ -2435,7 +2435,7 @@ As a last scene, a “human pyramid” had been announced, in which fifty Long N
 But, instead of forming a pyramid by mounting each other’s shoulders, the artists were to group themselves on top of the noses.
 It happened that the performer who had hitherto formed the base of the Car had quitted the troupe, and as, to fill this part,
 only strength and adroitness were necessary, Passepartout had been chosen to take his place.
-The poor fellow really felt sad when-melancholy reminiscence of his youth!-he donned his costume, adorned with vari-coloured wings,
+The poor fellow really felt sad when—melancholy reminiscence of his youth!—he donned his costume, adorned with vari-coloured wings,
 and fastened to his natural feature a false nose six feet long.
 But he cheered up when he thought that this nose was winning him something to eat.
 He went upon the stage, and took his place beside the rest who were to compose the base of the Car of Juggernaut.
@@ -2462,8 +2462,8 @@ Phileas Fogg, after paying the stipulated price of his passage to John Busby,
 and rewarding that worthy with the additional sum of five hundred and fifty pounds, ascended the steamer with Aouda and Fix;
 and they started at once for Nagasaki and Yokohama.
 They reached their destination on the morning of the 14th of November.
-Phileas Fogg lost no time in going on board the “Carnatic,” where he learned, to Aouda’s great delight-and perhaps to his own,
-though he betrayed no emotion-that Passepartout, a Frenchman, had really arrived on her the day before.
+Phileas Fogg lost no time in going on board the “Carnatic,” where he learned, to Aouda’s great delight—and perhaps to his own,
+though he betrayed no emotion—that Passepartout, a Frenchman, had really arrived on her the day before.
 The San Francisco steamer was announced to leave that very evening, and it became necessary to find Passepartout, if possible, without delay.
 Mr.
 Fogg applied in vain to the French and English consuls, and, after wandering through the streets a long time,
@@ -2492,7 +2492,7 @@ was directly connected with the shaft of the paddles.
 The “General Grant” was rigged with three masts, giving a large capacity for sails, and thus materially aiding the steam power.
 By making twelve miles an hour, she would cross the ocean in twenty-one days.
 Phileas Fogg was therefore justified in hoping that he would reach San Francisco by the 2nd of December, New York by the 11th,
-and London on the 20th-thus gaining several hours on the fatal date of the 21st of December.
+and London on the 20th—thus gaining several hours on the fatal date of the 21st of December.
 There was a full complement of passengers on board, among them English, many Americans, a large number of coolies on their way to California,
 and several East Indian officers, who were spending their vacation in making the tour of the world.
 Nothing of moment happened on the voyage; the steamer, sustained on its large paddles, rolled but little, and the “Pacific” almost justified its name.
@@ -2548,7 +2548,7 @@ As for the money, heaven grant there may be some left!
 But the fellow has already spent in travelling, rewards, trials, bail, elephants, and all sorts of charges, more than five thousand pounds.
 Yet, after all, the Bank is rich!” His course decided on, he went on board the “General Grant,” and was there when Mr. Fogg and Aouda arrived.
 To his utter amazement, he recognised Passepartout, despite his theatrical disguise.
-He quickly concealed himself in his cabin, to avoid an awkward explanation, and hoped-thanks to the number of passengers-to remain unperceived by Mr.
+He quickly concealed himself in his cabin, to avoid an awkward explanation, and hoped—thanks to the number of passengers—to remain unperceived by Mr.
 Fogg’s servant.
 On that very day, however, he met Passepartout face to face on the forward deck.
 The latter, without a word, made a rush for him, grasped him by the throat, and, much to the amusement of a group of Americans,
@@ -2556,7 +2556,7 @@ who immediately began to bet on him, administered to the detective a perfect vol
 which proved the great superiority of French over English pugilistic skill.
 When Passepartout had finished, he found himself relieved and comforted.
 Fix got up in a somewhat rumpled condition, and, looking at his adversary, coldly said,
-“Have you done?” “For this time-yes.” “Then let me have a word with you.” “But I-” “In your master’s interests.” Passepartout seemed to be vanquished
+“Have you done?” “For this time—yes.” “Then let me have a word with you.” “But I—” “In your master’s interests.” Passepartout seemed to be vanquished
 by Fix’s coolness, for he quietly followed him, and they sat down aside from the rest of the passengers.
 “You have given me a thrashing,” said Fix.
 “Good, I expected it.
@@ -2578,7 +2578,7 @@ Your interest is the same as mine;
 for it is only in England that you will ascertain whether you are in the service of a criminal or
 an honest man.” Passepartout listened very attentively to Fix, and was convinced that he spoke with entire good faith.
 “Are we friends?” asked the detective.
-“Friends?-no,” replied Passepartout; “but allies, perhaps.
+“Friends?—no,” replied Passepartout; “but allies, perhaps.
 At the least sign of treason, however, I’ll twist your neck for you.” “Agreed,” said the detective quietly.
 Eleven days later, on the 3rd of December, the “General Grant” entered the bay of the Golden Gate, and reached San Francisco.
 Mr. Fogg had neither gained nor lost a single day.
@@ -2603,7 +2603,7 @@ From his exalted position Passepartout observed with much curiosity the wide str
 the great docks, the palatial wooden and brick warehouses, the numerous conveyances, omnibuses, horse-cars, and upon the side-walks,
 not only Americans and Europeans, but Chinese and Indians.
 Passepartout was surprised at all he saw.
-San Francisco was no longer the legendary city of 1849-a city of banditti, assassins, and incendiaries,
+San Francisco was no longer the legendary city of 1849—a city of banditti, assassins, and incendiaries,
 who had flocked hither in crowds in pursuit of plunder;
 a paradise of outlaws, where they gambled with gold-dust,
 a revolver in one hand and a bowie-knife in the other: it was now a great commercial emporium.
@@ -2612,8 +2612,8 @@ and in the midst of which appeared pleasant, verdant squares, while beyond appea
 seemingly imported from the Celestial Empire in a toy-box.
 Sombreros and red shirts and plumed Indians were rarely to be seen;
 but there were silk hats and black coats everywhere worn by a multitude of nervously active, gentlemanly-looking men.
-Some of the streets-especially Montgomery Street, which is to San Francisco what Regent Street is to London, the Boulevard des Italiens to Paris,
-and Broadway to New York-were lined with splendid and spacious stores, which exposed in their windows the products of the entire world.
+Some of the streets—especially Montgomery Street, which is to San Francisco what Regent Street is to London, the Boulevard des Italiens to Paris,
+and Broadway to New York—were lined with splendid and spacious stores, which exposed in their windows the products of the entire world.
 When Passepartout reached the International Hotel, it did not seem to him as if he had left England at all.
 The ground floor of the hotel was occupied by a large bar, a sort of restaurant freely open to all passers-by, who might partake of dried beef,
 oyster soup, biscuits, and cheese, without taking out their purses.
@@ -2634,7 +2634,7 @@ At least Fix felt honoured to behold once more the gentleman to whom he owed so 
 he should be delighted to continue the journey in such pleasant company.
 Mr.
 Fogg replied that the honour would be his;
-and the detective-who was determined not to lose sight of him-begged permission to accompany them in their walk about San Francisco-a request which
+and the detective—who was determined not to lose sight of him—begged permission to accompany them in their walk about San Francisco—a request which
 Mr. Fogg readily granted.
 They soon found themselves in Montgomery Street, where a great crowd was collected;
 the side-walks, street, horsecar rails, the shop-doors, the windows of the houses, and even the roofs, were full of people.
@@ -2650,11 +2650,11 @@ towards which the current of the crowd seemed to be directed.
 For what purpose was this meeting?
 What was the occasion of this excited assemblage?
 Phileas Fogg could not imagine.
-Was it to nominate some high official-a governor or member of Congress?
+Was it to nominate some high official—a governor or member of Congress?
 It was not improbable, so agitated was the multitude before them.
 Just at this moment there was an unusual stir in the human mass.
 All the hands were raised in the air.
-Some, tightly closed, seemed to disappear suddenly in the midst of the cries-an energetic way, no doubt, of casting a vote.
+Some, tightly closed, seemed to disappear suddenly in the midst of the cries—an energetic way, no doubt, of casting a vote.
 The crowd swayed back, the banners and flags wavered, disappeared an instant, then reappeared in tatters.
 The undulations of the human surge reached the steps, while all the heads floundered on the surface like a sea agitated by a squall.
 Many of the black hats disappeared, and the greater part of the crowd seemed to have diminished in height.
@@ -2669,7 +2669,7 @@ Boots and shoes went whirling through the air, and Mr.
 Fogg thought he even heard the crack of revolvers mingling in the din, the rout approached the stairway, and flowed over the lower step.
 One of the parties had evidently been repulsed; but the mere lookers-on could not tell whether Mandiboy or Camerfield had gained the upper hand.
 “It would be prudent for us to retire,” said Fix, who was anxious that Mr. Fogg should not receive any injury, at least until they got back to London.
-“If there is any question about England in all this, and we were recognised, I fear it would go hard with us.” “An English subject-” began Mr. Fogg.
+“If there is any question about England in all this, and we were recognised, I fear it would go hard with us.” “An English subject—” began Mr. Fogg.
 He did not finish his sentence;
 for a terrific hubbub now arose on the terrace behind the flight of steps where they stood, and there were frantic shouts of, “Hurrah for Mandiboy!
 Hip, hip, hurrah!” It was a band of voters coming to the rescue of their allies, and taking the Camerfield forces in flank.
@@ -2711,7 +2711,7 @@ general-in-chief, no doubt?” asked Mr. Fogg.
 “No, sir; of a justice of the peace.” Phileas Fogg got into the train, which started off at full speed.
 CHAPTER XXVI. IN WHICH PHILEAS FOGG AND PARTY TRAVEL BY THE PACIFIC RAILROAD
 
-“From ocean to ocean”-so say the Americans;
+“From ocean to ocean”—so say the Americans;
 and these four words compose the general designation of the “great trunk line” which crosses the entire width of the United States.
 The Pacific Railroad is, however, really divided into two distinct lines: the Central Pacific, between San Francisco and Ogden,
 and the Union Pacific, between Ogden and Omaha.
@@ -2734,9 +2734,9 @@ The Pacific Railroad is joined by several branches in Iowa, Kansas, Colorado, an
 On leaving Omaha, it passes along the left bank of the Platte River as far as the junction of its northern branch, follows its southern branch,
 crosses the Laramie territory and the Wahsatch Mountains, turns the Great Salt Lake, and reaches Salt Lake City, the Mormon capital,
 plunges into the Tuilla Valley, across the American Desert, Cedar and Humboldt Mountains, the Sierra Nevada, and descends, _viâ_ Sacramento,
-to the Pacific-its grade, even on the Rocky Mountains, never exceeding one hundred and twelve feet to the mile.
-Such was the road to be traversed in seven days, which would enable Phileas Fogg-at least,
-so he hoped-to take the Atlantic steamer at New York on the 11th for Liverpool.
+to the Pacific—its grade, even on the Rocky Mountains, never exceeding one hundred and twelve feet to the mile.
+Such was the road to be traversed in seven days, which would enable Phileas Fogg—at least,
+so he hoped—to take the Atlantic steamer at New York on the 11th for Liverpool.
 The car which he occupied was a sort of long omnibus on eight wheels, and with no compartments in the interior.
 It was supplied with two rows of seats,
 perpendicular to the direction of the train on either side of an aisle which conducted to the front and rear platforms.
@@ -2759,7 +2759,7 @@ and in a few minutes the car was transformed into a dormitory.
 The backs of the seats were thrown back, bedsteads carefully packed were rolled out by an ingenious system, berths were suddenly improvised,
 and each traveller had soon at his disposition a comfortable bed, protected from curious eyes by thick curtains.
 The sheets were clean and the pillows soft.
-It only remained to go to bed and sleep which everybody did-while the train sped on across the State of California.
+It only remained to go to bed and sleep which everybody did—while the train sped on across the State of California.
 The country between San Francisco and Sacramento is not very hilly.
 The Central Pacific, taking Sacramento for its starting-point, extends eastward to meet the road from Omaha.
 The line from San Francisco to Sacramento runs in a north-easterly direction, along the American River, which empties into San Pablo Bay.
@@ -2885,7 +2885,7 @@ And you, my brother,” continued the Elder, fixing his angry eyes upon his sing
 under the shadow of our flag?” “No!” replied Passepartout courageously, in his turn retiring from the car, and leaving the Elder to preach to vacancy.
 During the lecture the train had been making good progress, and towards half-past twelve it reached the northwest border of the Great Salt Lake.
 Thence the passengers could observe the vast extent of this interior sea, which is also called the Dead Sea, and into which flows an American Jordan.
-It is a picturesque expanse, framed in lofty crags in large strata, encrusted with white salt-a superb sheet of water,
+It is a picturesque expanse, framed in lofty crags in large strata, encrusted with white salt—a superb sheet of water,
 which was formerly of larger extent than now, its shores having encroached with the lapse of time,
 and thus at once reduced its breadth and increased its depth.
 The Salt Lake, seventy miles long and thirty-five wide, is situated three miles eight hundred feet above the sea.
@@ -2901,7 +2901,7 @@ Fogg and his party had time to pay a visit to Salt Lake City, connected with Ogd
 and they spent two hours in this strikingly American town, built on the pattern of other cities of the Union, like a checker-board,
 “with the sombre sadness of right-angles,” as Victor Hugo expresses it.
 The founder of the City of the Saints could not escape from the taste for symmetry which distinguishes the Anglo-Saxons.
-In this strange country, where the people are certainly not up to the level of their institutions, everything is done “squarely”-cities, houses,
+In this strange country, where the people are certainly not up to the level of their institutions, everything is done “squarely”—cities, houses,
 and follies.
 The travellers, then, were promenading, at three o’clock,
 about the streets of the town built between the banks of the Jordan and the spurs of the Wahsatch Range.
@@ -2917,14 +2917,14 @@ They are free to marry or not, as they please;
 but it is worth noting that it is mainly the female citizens of Utah who are anxious to marry, as, according to the Mormon religion,
 maiden ladies are not admitted to the possession of its highest joys.
 These poor creatures seemed to be neither well off nor happy.
-Some-the more well-to-do, no doubt-wore short, open, black silk dresses, under a hood or modest shawl; others were habited in Indian fashion.
+Some—the more well-to-do, no doubt—wore short, open, black silk dresses, under a hood or modest shawl; others were habited in Indian fashion.
 Passepartout could not behold without a certain fright these women, charged, in groups, with conferring happiness on a single Mormon.
 His common sense pitied, above all, the husband.
 It seemed to him a terrible thing to have to guide so many wives at once across the vicissitudes of life, and to conduct them, as it were,
 in a body to the Mormon paradise with the prospect of seeing them in the company of the glorious Smith,
 who doubtless was the chief ornament of that delightful place, to all eternity.
 He felt decidedly repelled from such a vocation,
-and he imagined-perhaps he was mistaken-that the fair ones of Salt Lake City cast rather alarming glances on his person.
+and he imagined—perhaps he was mistaken—that the fair ones of Salt Lake City cast rather alarming glances on his person.
 Happily, his stay there was but brief.
 At four the party found themselves again at the station, took their places in the train, and the whistle sounded for starting.
 Just at the moment, however, that the locomotive wheels began to move, cries of “Stop!
@@ -2938,7 +2938,7 @@ Passepartout, who had been anxiously watching this amateur gymnast, approached h
 and learned that he had taken flight after an unpleasant domestic scene.
 When the Mormon had recovered his breath, Passepartout ventured to ask him politely how many wives he had;
 for, from the manner in which he had decamped, it might be thought that he had twenty at least.
-“One, sir,” replied the Mormon, raising his arms heavenward -“one, and that was enough!”
+“One, sir,” replied the Mormon, raising his arms heavenward —“one, and that was enough!”
 CHAPTER XXVIII. IN WHICH PASSEPARTOUT DOES NOT SUCCEED IN MAKING ANYBODY LISTEN TO REASON
 
 The train, on leaving Great Salt Lake at Ogden, passed northward for an hour as far as Weber River,
@@ -2985,7 +2985,7 @@ He said that he would come back to America to find this man.
 Should he perceive Colonel Proctor, we could not prevent a collision which might have terrible results.
 He must not see him.” “You are right, madam,” replied Fix; “a meeting between them might ruin all.
 Whether he were victorious or beaten, Mr.
-Fogg would be delayed, and-” “And,” added Passepartout, “that would play the game of the gentlemen of the Reform Club.
+Fogg would be delayed, and—” “And,” added Passepartout, “that would play the game of the gentlemen of the Reform Club.
 In four days we shall be in New York.
 Well, if my master does not leave this car during those four days,
 we may hope that chance will not bring him face to face with this confounded American.
@@ -3001,9 +3001,9 @@ The detective, at least, seemed to have found a way; for, after a few moments, h
 Fogg, “These are long and slow hours, sir, that we are passing on the railway.” “Yes,” replied Mr.
 Fogg; “but they pass.” “You were in the habit of playing whist,” resumed Fix, “on the steamers.” “Yes; but it would be difficult to do so here.
 I have neither cards nor partners.” “Oh, but we can easily buy some cards, for they are sold on all the American trains.
-And as for partners, if madam plays-” “Certainly, sir,” Aouda quickly replied; “I understand whist.
+And as for partners, if madam plays—” “Certainly, sir,” Aouda quickly replied; “I understand whist.
 It is part of an English education.” “I myself have some pretensions to playing a good game.
-Well, here are three of us, and a dummy-” “As you please, sir,” replied Phileas Fogg,
+Well, here are three of us, and a dummy—” “As you please, sir,” replied Phileas Fogg,
 heartily glad to resume his favourite pastime even on the railway.
 Passepartout was dispatched in search of the steward, and soon returned with two packs of cards, some pins, counters, and a shelf covered with cloth.
 The game commenced.
@@ -3079,14 +3079,14 @@ and many of those present avowed themselves of the engineer’s mind.
 ninety!” Passepartout was astounded, and, though ready to attempt anything to get over Medicine Creek,
 thought the experiment proposed a little too American.
 “Besides,” thought he, “there’s a still more simple way, and it does not even occur to any of these people!
-Sir,” said he aloud to one of the passengers, “the engineer’s plan seems to me a little dangerous, but-” “Eighty chances!” replied the passenger,
+Sir,” said he aloud to one of the passengers, “the engineer’s plan seems to me a little dangerous, but—” “Eighty chances!” replied the passenger,
 turning his back on him.
-“I know it,” said Passepartout, turning to another passenger, “but a simple idea-” “Ideas are no use,” returned the American,
+“I know it,” said Passepartout, turning to another passenger, “but a simple idea—” “Ideas are no use,” returned the American,
 shrugging his shoulders, “as the engineer assures us that we can pass.” “Doubtless,” urged Passepartout, “we can pass,
-but perhaps it would be more prudent-” “What!
+but perhaps it would be more prudent—” “What!
 Prudent!” cried Colonel Proctor, whom this word seemed to excite prodigiously.
-“At full speed, don’t you see, at full speed!” “I know-I see,” repeated Passepartout;
-“but it would be, if not more prudent, since that word displeases you, at least more natural-” “Who!
+“At full speed, don’t you see, at full speed!” “I know—I see,” repeated Passepartout;
+“but it would be, if not more prudent, since that word displeases you, at least more natural—” “Who!
 What!
 What’s the matter with this fellow?” cried several.
 The poor fellow did not know to whom to address himself.
@@ -3100,7 +3100,7 @@ The passengers resumed their places in the cars.
 Passepartout took his seat without telling what had passed.
 The whist-players were quite absorbed in their game.
 The locomotive whistled vigorously;
-the engineer, reversing the steam, backed the train for nearly a mile-retiring, like a jumper, in order to take a longer leap.
+the engineer, reversing the steam, backed the train for nearly a mile—retiring, like a jumper, in order to take a longer leap.
 Then, with another whistle, he began to move forward; the train increased its speed, and soon its rapidity became frightful;
 a prolonged screech issued from the locomotive; the piston worked up and down twenty strokes to the second.
 They perceived that the whole train, rushing on at the rate of a hundred miles an hour, hardly bore upon the rails at all.
@@ -3135,7 +3135,7 @@ The road followed the capricious windings of the southern branch of the Platte R
 At nine the train stopped at the important town of North Platte, built between the two arms of the river,
 which rejoin each other around it and form a single artery, a large tributary, whose waters empty into the Missouri a little above Omaha.
 The one hundred and first meridian was passed.
-Mr. Fogg and his partners had resumed their game; no one-not even the dummy-complained of the length of the trip.
+Mr. Fogg and his partners had resumed their game; no one—not even the dummy—complained of the length of the trip.
 Fix had begun by winning several guineas, which he seemed likely to lose; but he showed himself a not less eager whist-player than Mr. Fogg.
 During the morning, chance distinctly favoured that gentleman.
 Trumps and honours were showered upon his hands.
@@ -3275,7 +3275,7 @@ He had a serious decision to make.
 Aouda, standing near him, looked at him without speaking, and he understood her look.
 If his servant was a prisoner, ought he not to risk everything to rescue him from the Indians?
 “I will find him, living or dead,” said he quietly to Aouda.
-“Ah, Mr.-Mr.
+“Ah, Mr.—Mr.
 Fogg!” cried she, clasping his hands and covering them with tears.
 “Living,” added Mr. Fogg, “if we do not lose a moment.” Phileas Fogg, by this resolution, inevitably sacrificed himself; he pronounced his own doom.
 The delay of a single day would make him lose the steamer at New York, and his bet would be certainly lost.
@@ -3290,7 +3290,7 @@ sir,” said Phileas Fogg.
 “Doubtless; but can I risk the lives of fifty men to save three?” “I don’t know whether you can, sir;
 but you ought to do so.” “Nobody here,” returned the other, “has a right to teach me my duty.” “Very well,” said Mr. Fogg, coldly.
 “I will go alone.” “You, sir!” cried Fix, coming up;
-“you go alone in pursuit of the Indians?” “Would you have me leave this poor fellow to perish-him to whom every one present owes his life?
+“you go alone in pursuit of the Indians?” “Would you have me leave this poor fellow to perish—him to whom every one present owes his life?
 I shall go.” “No, sir, you shall not go alone,” cried the captain, touched in spite of himself.
 “No!
 you are a brave man.
@@ -3302,7 +3302,7 @@ Thirty were chosen, and an old sergeant placed at their head.
 “Will you let me go with you?” asked Fix.
 “Do as you please, sir.
 But if you wish to do me a favour, you will remain with Aouda.
-In case anything should happen to me-” A sudden pallor overspread the detective’s face.
+In case anything should happen to me—” A sudden pallor overspread the detective’s face.
 Separate himself from the man whom he had so persistently followed step by step!
 Leave him to wander about in this desert!
 Fix gazed attentively at Mr.
@@ -3353,10 +3353,10 @@ This it was which was whistling in the mist.
 The travellers were glad to see the locomotive resume its place at the head of the train.
 They could now continue the journey so terribly interrupted.
 Aouda, on seeing the locomotive come up, hurried out of the station, and asked the conductor, “Are you going to start?” “At once,
-madam.” “But the prisoners, our unfortunate fellow-travellers-” “I cannot interrupt the trip,” replied the conductor.
+madam.” “But the prisoners, our unfortunate fellow-travellers—” “I cannot interrupt the trip,” replied the conductor.
 “We are already three hours behind time.” “And when will another train pass here from San Francisco?” “To-morrow evening, madam.” “To-morrow evening!
 But then it will be too late!
-We must wait-” “It is impossible,” responded the conductor.
+We must wait—” “It is impossible,” responded the conductor.
 “If you wish to go, please get in.” “I will not go,” said Aouda.
 Fix had heard this conversation.
 A little while before, when there was no prospect of proceeding on the journey, he had made up his mind to leave Fort Kearney;
@@ -3482,7 +3482,7 @@ Schuyler, and Fremont, to Omaha.
 It followed throughout the right bank of the Platte River.
 The sledge, shortening this route, took a chord of the arc described by the railway.
 Mudge was not afraid of being stopped by the Platte River, because it was frozen.
-The road, then, was quite clear of obstacles, and Phileas Fogg had but two things to fear-an accident to the sledge, and a change or calm in the wind.
+The road, then, was quite clear of obstacles, and Phileas Fogg had but two things to fear—an accident to the sledge, and a change or calm in the wind.
 But the breeze, far from lessening its force, blew as if to bend the mast, which, however, the metallic lashings held firmly.
 These lashings, like the chords of a stringed instrument, resounded as if vibrated by a violin bow.
 The sledge slid along in the midst of a plaintively intense melody.
@@ -3574,21 +3574,21 @@ He ascended to the deck, and asked for the captain, who forthwith presented hims
 He was a man of fifty, a sort of sea-wolf, with big eyes, a complexion of oxidised copper, red hair and thick neck, and a growling voice.
 “The captain?” asked Mr. Fogg.
 “I am the captain.” “I am Phileas Fogg, of London.” “And I am Andrew Speedy,
-of Cardiff.” “You are going to put to sea?” “In an hour.” “You are bound for-” “Bordeaux.” “And your cargo?” “No freight.
+of Cardiff.” “You are going to put to sea?” “In an hour.” “You are bound for—” “Bordeaux.” “And your cargo?” “No freight.
 Going in ballast.” “Have you any passengers?” “No passengers.
 Never have passengers.
 Too much in the way.” “Is your vessel a swift one?” “Between eleven and twelve knots.
 The “Henrietta,” well known.” “Will you carry me and three other persons to Liverpool?” “To Liverpool?
 Why not to China?” “I said Liverpool.” “No!” “No?” “No.
 I am setting out for Bordeaux, and shall go to Bordeaux.” “Money is no object?” “None.” The captain spoke in a tone which did not admit of a reply.
-“But the owners of the ‘Henrietta’-” resumed Phileas Fogg.
+“But the owners of the ‘Henrietta’—” resumed Phileas Fogg.
 “The owners are myself,” replied the captain.
 “The vessel belongs to me.” “I will freight it for you.” “No.” “I will buy it of you.” “No.” Phileas Fogg did not betray the least disappointment;
 but the situation was a grave one.
 It was not at New York as at Hong Kong,
 nor with the captain of the “Henrietta” as with the captain of the “Tankadere.” Up to this time money had smoothed away every obstacle.
 Now money failed.
-Still, some means must be found to cross the Atlantic on a boat, unless by balloon-which would have been venturesome,
+Still, some means must be found to cross the Atlantic on a boat, unless by balloon—which would have been venturesome,
 besides not being capable of being put in practice.
 It seemed that Phileas Fogg had an idea, for he said to the captain, “Well, will you carry me to Bordeaux?” “No,
 not if you paid me two hundred dollars.” “I offer you two thousand.” “Apiece?” “Apiece.” “And there are four of you?” “Four.” Captain Speedy began to
@@ -3629,7 +3629,7 @@ How the adventure ended will be seen anon.
 Aouda was anxious, though she said nothing.
 As for Passepartout, he thought Mr. Fogg’s manœuvre simply glorious.
 The captain had said “between eleven and twelve knots,” and the “Henrietta” confirmed his prediction.
-If, then-for there were “ifs” still-the sea did not become too boisterous, if the wind did not veer round to the east,
+If, then—for there were “ifs” still—the sea did not become too boisterous, if the wind did not veer round to the east,
 if no accident happened to the boat or its machinery,
 the “Henrietta” might cross the three thousand miles from New York to Liverpool in the nine days, between the 12th and the 21st of December.
 It is true that, once arrived, the affair on board the “Henrietta,” added to that of the Bank of England, might create more difficulties for Mr.
@@ -3716,7 +3716,7 @@ Had the poor man been an apoplectic, he could never have recovered from his paro
 “Where are we?” he repeated, with purple face.
 “Seven hundred and seven miles from Liverpool,” replied Mr. Fogg, with imperturbable calmness.
 “Pirate!” cried Captain Speedy.
-“I have sent for you, sir-” “Pickaroon!” “-sir,” continued Mr. Fogg, “to ask you to sell me your vessel.” “No!
+“I have sent for you, sir—” “Pickaroon!” “—sir,” continued Mr. Fogg, “to ask you to sell me your vessel.” “No!
 By all the devils, no!” “But I shall be obliged to burn her.” “Burn the ‘Henrietta’!” “Yes; at least the upper part of her.
 The coal has given out.” “Burn my vessel!” cried Captain Speedy, who could scarcely pronounce the words.
 “A vessel worth fifty thousand dollars!” “Here are sixty thousand,” replied Phileas Fogg, handing the captain a roll of bank-bills.
@@ -3734,10 +3734,10 @@ Nearly twenty thousand pounds had been expended, and Fogg left the hull and engi
 It was true, however, that fifty-five thousand pounds had been stolen from the Bank.
 When Andrew Speedy had pocketed the money, Mr. Fogg said to him, “Don’t let this astonish you, sir.
 You must know that I shall lose twenty thousand pounds, unless I arrive in London by a quarter before nine on the evening of the 21st of December.
-I missed the steamer at New York, and as you refused to take me to Liverpool-” “And I did well!” cried Andrew Speedy;
-“for I have gained at least forty thousand dollars by it!” He added, more sedately, “Do you know one thing, Captain-” “Fogg.” “Captain Fogg,
+I missed the steamer at New York, and as you refused to take me to Liverpool—” “And I did well!” cried Andrew Speedy;
+“for I have gained at least forty thousand dollars by it!” He added, more sedately, “Do you know one thing, Captain—” “Fogg.” “Captain Fogg,
 you’ve got something of the Yankee about you.” And, having paid his passenger what he considered a high compliment, he was going away, when Mr.
-Fogg said, “The vessel now belongs to me?” “Certainly, from the keel to the truck of the masts-all the wood, that is.” “Very well.
+Fogg said, “The vessel now belongs to me?” “Certainly, from the keel to the truck of the masts—all the wood, that is.” “Very well.
 Have the interior seats, bunks, and frames pulled down,
 and burn them.” It was necessary to have dry wood to keep the steam up to the adequate pressure, and on that day the poop, cabins, bunks,
 and the spare deck were sacrificed.
@@ -3807,7 +3807,7 @@ He was not, it is true, resigned; but this last blow failed to force him into an
 Was he being devoured by one of those secret rages, all the more terrible because contained, and which only burst forth, with an irresistible force,
 at the last moment?
 No one could tell.
-There he sat, calmly waiting-for what?
+There he sat, calmly waiting—for what?
 Did he still cherish hope?
 Did he still believe, now that the door of this prison was closed upon him, that he would succeed?
 However that may have been, Mr. Fogg carefully put his watch upon the table, and observed its advancing hands.
@@ -3831,7 +3831,7 @@ Phileas Fogg’s eyes brightened for an instant.
 The door swung open, and he saw Passepartout, Aouda, and Fix, who hurried towards him.
 Fix was out of breath, and his hair was in disorder.
 He could not speak.
-“Sir,” he stammered, “sir-forgive me-most-unfortunate resemblance-robber arrested three days ago-you are free!” Phileas Fogg was free!
+“Sir,” he stammered, “sir—forgive me—most—unfortunate resemblance—robber arrested three days ago—you are free!” Phileas Fogg was free!
 He walked to the detective, looked him steadily in the face, and with the only rapid motion he had ever made in his life,
 or which he ever would make, drew back his arms, and with the precision of a machine knocked Fix down.
 “Well hit!” cried Passepartout, “Parbleu!
@@ -3850,7 +3850,7 @@ But there were forced delays, and when Mr.
 Fogg stepped from the train at the terminus, all the clocks in London were striking ten minutes before nine.
 [1] Having made the tour of the world, he was behind-hand five minutes.
 He had lost the wager!
-[1] A somewhat remarkable eccentricity on the part of the London clocks!-TRANSLATOR.
+[1] A somewhat remarkable eccentricity on the part of the London clocks!—TRANSLATOR.
 CHAPTER XXXV. IN WHICH PHILEAS FOGG DOES NOT HAVE TO REPEAT HIS ORDERS TO PASSEPARTOUT TWICE
 
 The dwellers in Saville Row would have been surprised the next day, if they had been told that Phileas Fogg had returned home.
@@ -3889,13 +3889,13 @@ for he accused himself more bitterly than ever of being the cause of the irretri
 Yes!
 if he had warned Mr.
 Fogg, and had betrayed Fix’s projects to him, his master would certainly not have given the detective passage to Liverpool,
-and then- Passepartout could hold in no longer.
+and then— Passepartout could hold in no longer.
 “My master!
 Mr. Fogg!” he cried, “why do you not curse me?
-It was my fault that-” “I blame no one,” returned Phileas Fogg, with perfect calmness.
+It was my fault that—” “I blame no one,” returned Phileas Fogg, with perfect calmness.
 “Go!” Passepartout left the room, and went to find Aouda, to whom he delivered his master’s message.
-“Madam,” he added, “I can do nothing myself-nothing!
-I have no influence over my master; but you, perhaps-” “What influence could I have?” replied Aouda.
+“Madam,” he added, “I can do nothing myself—nothing!
+I have no influence over my master; but you, perhaps—” “What influence could I have?” replied Aouda.
 “Mr.
 Fogg is influenced by no one.
 Has he ever understood that my gratitude to him is overflowing?
@@ -3938,7 +3938,7 @@ Fogg!” replied Aouda, checking the pulsations of her heart.
 and counted on putting a portion of my fortune at your disposal; then your existence would have been free and happy.
 But now I am ruined.” “I know it, Mr.
 Fogg,” replied Aouda;
-“and I ask you in my turn, will you forgive me for having followed you, and-who knows?-for having, perhaps, delayed you,
+“and I ask you in my turn, will you forgive me for having followed you, and—who knows?—for having, perhaps, delayed you,
 and thus contributed to your ruin?” “Madam, you could not remain in India,
 and your safety could only be assured by bringing you to such a distance that your persecutors could not take you.” “So, Mr.
 Fogg,” resumed Aouda, “not content with rescuing me from a terrible death, you thought yourself bound to secure my comfort in a foreign land?” “Yes,
@@ -3946,7 +3946,7 @@ madam; but circumstances have been against me.
 Still, I beg to place the little I have left at your service.” “But what will become of you, Mr.
 Fogg?” “As for me, madam,” replied the gentleman, coldly, “I have need of nothing.” “But how do you look upon the fate, sir,
 which awaits you?” “As I am in the habit of doing.” “At least,” said Aouda, “want should not overtake a man like you.
-Your friends-” “I have no friends, madam.” “Your relatives-” “I have no longer any relatives.” “I pity you, then, Mr.
+Your friends—” “I have no friends, madam.” “Your relatives—” “I have no longer any relatives.” “I pity you, then, Mr.
 Fogg, for solitude is a sad thing, with no heart to which to confide your griefs.
 They say, though, that misery itself, shared by two sympathetic souls, may be borne with patience.” “They say so, madam.” “Mr.
 Fogg,” said Aouda, rising and seizing his hand, “do you wish at once a kinswoman and friend?
@@ -4012,7 +4012,7 @@ Whatever his punctuality, he could not prevent the delays which were certain to 
 and a delay of only two or three days would be fatal to his tour.” “Observe, too,” added John Sullivan,
 “that we have received no intelligence from him, though there are telegraphic lines all along his route.” “He has lost,
 gentleman,” said Andrew Stuart, “he has a hundred times lost!
-You know, besides, that the ‘China’-the only steamer he could have taken from New York to get here in time arrived yesterday.
+You know, besides, that the ‘China’—the only steamer he could have taken from New York to get here in time arrived yesterday.
 I have seen a list of the passengers, and the name of Phileas Fogg is not among them.
 Even if we admit that fortune has favoured him, he can scarcely have reached America.
 I think he will be at least twenty days behind-hand, and that Lord Albemarle will lose a cool five thousand.” “It is clear,” replied Gauthier Ralph;
@@ -4041,71 +4041,3 @@ At the fifty-seventh second the door of the saloon opened;
 and the pendulum had not beat the sixtieth second when Phileas Fogg appeared,
 followed by an excited crowd who had forced their way through the club doors, and in his calm voice, said, “Here I am, gentlemen!”
 CHAPTER XXXVII. IN WHICH IT IS SHOWN THAT PHILEAS FOGG GAINED NOTHING BY HIS TOUR AROUND THE WORLD, UNLESS IT WERE HAPPINESS
-
-Yes; Phileas Fogg in person.
-The reader will remember that at five minutes past eight in the evening-about five and
-twenty hours after the arrival of the travellers in London-Passepartout had been sent by his master to engage the services of the Reverend Samuel
-Wilson in a certain marriage ceremony, which was to take place the next day.
-Passepartout went on his errand enchanted.
-He soon reached the clergyman’s house, but found him not at home.
-Passepartout waited a good twenty minutes, and when he left the reverend gentleman, it was thirty-five minutes past eight.
-But in what a state he was!
-With his hair in disorder, and without his hat, he ran along the street as never man was seen to run before, overturning passers-by,
-rushing over the sidewalk like a waterspout.
-In three minutes he was in Saville Row again, and staggered back into Mr. Fogg’s room.
-He could not speak.
-“What is the matter?” asked Mr. Fogg.
-“My master!” gasped Passepartout-“marriage-impossible-” “Impossible?” “Impossible-for to-morrow.” “Why so?” “Because to-morrow-is Sunday!” “Monday,”
-replied Mr. Fogg.
-“No-to-day is Saturday.” “Saturday?
-Impossible!” “Yes, yes, yes, yes!” cried Passepartout.
-“You have made a mistake of one day!
-We arrived twenty-four hours ahead of time;
-but there are only ten minutes left!” Passepartout had seized his master by the collar, and was dragging him along with irresistible force.
-Phileas Fogg, thus kidnapped, without having time to think, left his house, jumped into a cab, promised a hundred pounds to the cabman, and,
-having run over two dogs and overturned five carriages, reached the Reform Club.
-The clock indicated a quarter before nine when he appeared in the great saloon.
-Phileas Fogg had accomplished the journey round the world in eighty days!
-Phileas Fogg had won his wager of twenty thousand pounds!
-How was it that a man so exact and fastidious could have made this error of a day?
-How came he to think that he had arrived in London on Saturday, the twenty-first day of December, when it was really Friday, the twentieth,
-the seventy-ninth day only from his departure?
-The cause of the error is very simple.
-Phileas Fogg had, without suspecting it, gained one day on his journey, and this merely because he had travelled constantly _eastward;_ he would,
-on the contrary, have lost a day had he gone in the opposite direction, that is, _westward_.
-In journeying eastward he had gone towards the sun,
-and the days therefore diminished for him as many times four minutes as he crossed degrees in this direction.
-There are three hundred and sixty degrees on the circumference of the earth;
-and these three hundred and sixty degrees, multiplied by four minutes, gives precisely twenty-four hours-that is, the day unconsciously gained.
-In other words, while Phileas Fogg, going eastward, saw the sun pass the meridian _eighty_ times,
-his friends in London only saw it pass the meridian _seventy-nine_ times.
-This is why they awaited him at the Reform Club on Saturday, and not Sunday, as Mr. Fogg thought.
-And Passepartout’s famous family watch, which had always kept London time, would have betrayed this fact,
-if it had marked the days as well as the hours and the minutes!
-Phileas Fogg, then, had won the twenty thousand pounds; but, as he had spent nearly nineteen thousand on the way, the pecuniary gain was small.
-His object was, however, to be victorious, and not to win money.
-He divided the one thousand pounds that remained between Passepartout and the unfortunate Fix, against whom he cherished no grudge.
-He deducted, however, from Passepartout’s share the cost of the gas which had burned in his room for nineteen hundred and twenty hours,
-for the sake of regularity.
-That evening, Mr. Fogg, as tranquil and phlegmatic as ever, said to Aouda: “Is our marriage still agreeable to you?” “Mr.
-Fogg,” replied she, “it is for me to ask that question.
-You were ruined, but now you are rich again.” “Pardon me, madam; my fortune belongs to you.
-If you had not suggested our marriage, my servant would not have gone to the Reverend Samuel Wilson’s, I should not have been apprised of my error,
-and-” “Dear Mr. Fogg!” said the young woman.
-“Dear Aouda!” replied Phileas Fogg.
-It need not be said that the marriage took place forty-eight hours after, and that Passepartout, glowing and dazzling, gave the bride away.
-Had he not saved her, and was he not entitled to this honour?
-The next day, as soon as it was light, Passepartout rapped vigorously at his master’s door.
-Mr. Fogg opened it, and asked, “What’s the matter, Passepartout?” “What is it, sir?
-Why, I’ve just this instant found out-” “What?” “That we might have made the tour of the world in only seventy-eight days.” “No doubt,” returned Mr.
-Fogg, “by not crossing India.
-But if I had not crossed India, I should not have saved Aouda; she would not have been my wife, and-” Mr. Fogg quietly shut the door.
-Phileas Fogg had won his wager, and had made his journey around the world in eighty days.
-To do this he had employed every means of conveyance-steamers, railways, carriages, yachts, trading-vessels, sledges, elephants.
-The eccentric gentleman had throughout displayed all his marvellous qualities of coolness and exactitude.
-But what then?
-What had he really gained by all this trouble?
-What had he brought back from this long and weary journey?
-Nothing, say you?
-Perhaps so; nothing but a charming woman, who, strange as it may appear, made him the happiest of men!
-Truly, would you not for less than that make the tour around the world?

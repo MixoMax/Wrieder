@@ -19,7 +19,7 @@
 }
 
 body {
-    font-family: 'Courier New', monospace;
+    font-family: 'Poppins', sans-serif;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -34,20 +34,21 @@ body {
     flex: 1;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start; /* Align content to the top */
     align-items: center;
     padding: 20px;
     width: 80%;
     max-width: 900px;
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 80px; /* Reduced top margin */
 }
 
 h1 {
-    font-size: 1em;
-    color: #4a5568;
-    margin-bottom: 60px;
-    font-weight: normal;
+    font-size: 2em; /* Larger header */
+    color: #2c3e50; /* Darker header color */
+    margin-bottom: 30px; /* Reduced margin */
+    font-family: 'Playfair Display', serif; /* Elegant serif font */
+    font-weight: 700; /* Bold header */
 }
 
 .header {
@@ -107,6 +108,16 @@ h1 {
     width: 0%;
     transition: width 0.3s ease;
     box-shadow: 0 0 8px rgba(76, 175, 80, 0.5);
+}
+
+.progress-text {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    font-size: 0.8em;
+    color: white;
+    font-weight: bold;
 }
 
 .header .right span {
@@ -200,24 +211,28 @@ h1 {
 
 /* Digital Library Styles */
 .subtitle {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2em;
     font-weight: 300;
-    opacity: 0.9;
+    opacity: 0.8;
+    margin-bottom: 40px;
+    color: #555; /* Slightly lighter subtitle color */
 }
 
 .book-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive grid */
     gap: 2rem;
     padding: 2rem;
-    max-width: 1400px;
+    max-width: 1200px; /* Slightly reduced max-width */
     margin: 0 auto;
 }
 
 .book-card {
-    background: var(--card-color);
-    border-radius: 10px;
+    background: #fff; /* White card background */
+    border-radius: 15px; /* More rounded corners */
     overflow: hidden;
-    box-shadow: var(--shadow);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
     position: relative;
@@ -230,22 +245,20 @@ h1 {
 
 .book-cover {
     width: 100%;
-    aspect-ratio: 2/3;
+    height: 300px; /* Fixed height for better consistency */
     object-fit: cover;
-    border-bottom: 2px solid #eee;
 }
 
 .book-info {
-    padding: 1rem;
+    padding: 1.5rem; /* Increased padding */
     text-align: center;
-    
 }
 
 .book-title {
     font-family: 'Playfair Display', serif;
-    font-size: 1.1rem;
+    font-size: 1.4rem; /* Larger title */
     margin-bottom: 0.5rem;
-    color: var(--primary-color);
+    color: #2c3e50; /* Darker title color */
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
@@ -257,6 +270,7 @@ h1 {
     text-align: center;
     padding: 2rem;
     display: none;
+    margin-top: 2rem;
 }
 
 .loading.visible {
@@ -269,7 +283,7 @@ h1 {
     height: 50px;
     border: 3px solid #f3f3f3;
     border-radius: 50%;
-    border-top: 3px solid var(--secondary-color);
+    border-top: 3px solid #e74c3c; /* Red spinner */
     animation: spin 1s linear infinite;
 }
 
@@ -281,14 +295,55 @@ h1 {
 .book-card::after {
     content: '→';
     position: absolute;
-    right: 1rem;
-    bottom: 1rem;
-    font-size: 1.2rem;
-    opacity: 0;
     transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
 .book-card:hover::after {
     opacity: 1;
     transform: translateX(5px);
+}
+
+#searchInput {
+    max-width: 1200px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    padding: 10px 20px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    font-size: 1em;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    box-shadow: var(--shadow);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchInput::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#searchInput:focus {
+    outline: none;
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+
+.btn {
+    background-color: rgba(var(--secondary-color), 0.3); /* Further desaturated */
+    color: white;
+    padding: 6px 12px; /* Even smaller padding */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.8em;
+    transition: background-color 0.3s ease;
+    margin: 0 4px;
+    box-shadow: var(--shadow);
+}
+
+.btn:hover {
+    background-color: rgba(var(--secondary-color), 0.4); /* Slightly more intense on hover */
+    box-shadow: var(--hover-shadow);
 }
